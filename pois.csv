@@ -1,0 +1,977 @@
+poi_id,name,poi_type,district_id,city,lat,lon,daily_footfall_est
+POI_00001,Kebayoran Baru Office Tower 1,Office Tower,CITY_01_D1,Jakarta Selatan,-6.294278,106.808137,3940
+POI_00002,Kebayoran Baru Office Tower 2,Office Tower,CITY_01_D1,Jakarta Selatan,-6.281823,106.81347,6589
+POI_00003,Kebayoran Baru Office Tower 3,Office Tower,CITY_01_D1,Jakarta Selatan,-6.277058,106.806482,9055
+POI_00004,Kebayoran Baru Office Tower 4,Office Tower,CITY_01_D1,Jakarta Selatan,-6.286466,106.807619,7998
+POI_00005,Kebayoran Baru Office Tower 5,Office Tower,CITY_01_D1,Jakarta Selatan,-6.276282,106.813717,4520
+POI_00006,Kebayoran Baru University 1,University,CITY_01_D1,Jakarta Selatan,-6.279613,106.81348,7525
+POI_00007,Kebayoran Baru University 2,University,CITY_01_D1,Jakarta Selatan,-6.271371,106.807219,7617
+POI_00008,Kebayoran Baru Mall 1,Mall,CITY_01_D1,Jakarta Selatan,-6.282076,106.813798,33287
+POI_00009,Kebayoran Baru Mall 2,Mall,CITY_01_D1,Jakarta Selatan,-6.278341,106.81652,31962
+POI_00010,Kebayoran Baru Mall 3,Mall,CITY_01_D1,Jakarta Selatan,-6.282561,106.813181,21918
+POI_00011,Kebayoran Baru Transit Station 1,Transit Station,CITY_01_D1,Jakarta Selatan,-6.275608,106.80985,34599
+POI_00012,Kebayoran Baru Transit Station 2,Transit Station,CITY_01_D1,Jakarta Selatan,-6.27427,106.81797,15838
+POI_00013,Kebayoran Baru Residential Cluster 1,Residential Cluster,CITY_01_D1,Jakarta Selatan,-6.284554,106.810371,5000
+POI_00014,Kebayoran Baru Residential Cluster 2,Residential Cluster,CITY_01_D1,Jakarta Selatan,-6.280897,106.814223,4216
+POI_00015,Kebayoran Baru Residential Cluster 3,Residential Cluster,CITY_01_D1,Jakarta Selatan,-6.272364,106.811599,4400
+POI_00016,Kebayoran Baru Hospital 1,Hospital,CITY_01_D1,Jakarta Selatan,-6.278731,106.81346,5517
+POI_00017,Setiabudi Office Tower 1,Office Tower,CITY_01_D2,Jakarta Selatan,-6.281215,106.793118,5942
+POI_00018,Setiabudi Office Tower 2,Office Tower,CITY_01_D2,Jakarta Selatan,-6.277897,106.803438,9772
+POI_00019,Setiabudi Office Tower 3,Office Tower,CITY_01_D2,Jakarta Selatan,-6.28363,106.795643,7080
+POI_00020,Setiabudi Office Tower 4,Office Tower,CITY_01_D2,Jakarta Selatan,-6.284456,106.792682,9111
+POI_00021,Setiabudi Office Tower 5,Office Tower,CITY_01_D2,Jakarta Selatan,-6.281819,106.801832,9350
+POI_00022,Setiabudi University 1,University,CITY_01_D2,Jakarta Selatan,-6.276897,106.789433,5149
+POI_00023,Setiabudi University 2,University,CITY_01_D2,Jakarta Selatan,-6.281093,106.801917,8578
+POI_00024,Setiabudi Mall 1,Mall,CITY_01_D2,Jakarta Selatan,-6.285502,106.796315,28664
+POI_00025,Setiabudi Mall 2,Mall,CITY_01_D2,Jakarta Selatan,-6.284706,106.796851,32296
+POI_00026,Setiabudi Mall 3,Mall,CITY_01_D2,Jakarta Selatan,-6.27998,106.799613,23093
+POI_00027,Setiabudi Transit Station 1,Transit Station,CITY_01_D2,Jakarta Selatan,-6.286448,106.797457,18255
+POI_00028,Setiabudi Transit Station 2,Transit Station,CITY_01_D2,Jakarta Selatan,-6.282569,106.794232,26333
+POI_00029,Setiabudi Residential Cluster 1,Residential Cluster,CITY_01_D2,Jakarta Selatan,-6.282277,106.797386,3397
+POI_00030,Setiabudi Residential Cluster 2,Residential Cluster,CITY_01_D2,Jakarta Selatan,-6.292574,106.788765,2255
+POI_00031,Setiabudi Residential Cluster 3,Residential Cluster,CITY_01_D2,Jakarta Selatan,-6.27706,106.804123,4721
+POI_00032,Setiabudi Hospital 1,Hospital,CITY_01_D2,Jakarta Selatan,-6.28547,106.797186,8264
+POI_00033,Tebet Office Tower 1,Office Tower,CITY_01_D3,Jakarta Selatan,-6.278185,106.813965,5792
+POI_00034,Tebet Office Tower 2,Office Tower,CITY_01_D3,Jakarta Selatan,-6.281987,106.801532,7893
+POI_00035,Tebet Office Tower 3,Office Tower,CITY_01_D3,Jakarta Selatan,-6.288155,106.810796,3720
+POI_00036,Tebet Office Tower 4,Office Tower,CITY_01_D3,Jakarta Selatan,-6.29015,106.815272,7281
+POI_00037,Tebet Office Tower 5,Office Tower,CITY_01_D3,Jakarta Selatan,-6.295199,106.805964,6028
+POI_00038,Tebet University 1,University,CITY_01_D3,Jakarta Selatan,-6.285106,106.816299,8848
+POI_00039,Tebet University 2,University,CITY_01_D3,Jakarta Selatan,-6.285588,106.808254,9346
+POI_00040,Tebet Mall 1,Mall,CITY_01_D3,Jakarta Selatan,-6.27999,106.82274,20828
+POI_00041,Tebet Mall 2,Mall,CITY_01_D3,Jakarta Selatan,-6.287284,106.817868,15511
+POI_00042,Tebet Mall 3,Mall,CITY_01_D3,Jakarta Selatan,-6.286823,106.813521,14938
+POI_00043,Tebet Transit Station 1,Transit Station,CITY_01_D3,Jakarta Selatan,-6.285562,106.812507,30799
+POI_00044,Tebet Transit Station 2,Transit Station,CITY_01_D3,Jakarta Selatan,-6.283859,106.791426,25997
+POI_00045,Tebet Residential Cluster 1,Residential Cluster,CITY_01_D3,Jakarta Selatan,-6.293406,106.799432,4478
+POI_00046,Tebet Residential Cluster 2,Residential Cluster,CITY_01_D3,Jakarta Selatan,-6.282898,106.813385,3150
+POI_00047,Tebet Residential Cluster 3,Residential Cluster,CITY_01_D3,Jakarta Selatan,-6.28467,106.823632,4284
+POI_00048,Tebet Hospital 1,Hospital,CITY_01_D3,Jakarta Selatan,-6.279339,106.820401,2515
+POI_00049,Cilandak Office Tower 1,Office Tower,CITY_01_D4,Jakarta Selatan,-6.275006,106.803833,9829
+POI_00050,Cilandak Office Tower 2,Office Tower,CITY_01_D4,Jakarta Selatan,-6.278814,106.812312,4509
+POI_00051,Cilandak Office Tower 3,Office Tower,CITY_01_D4,Jakarta Selatan,-6.279811,106.787692,4776
+POI_00052,Cilandak Office Tower 4,Office Tower,CITY_01_D4,Jakarta Selatan,-6.280821,106.806614,9629
+POI_00053,Cilandak Office Tower 5,Office Tower,CITY_01_D4,Jakarta Selatan,-6.272723,106.803662,6526
+POI_00054,Cilandak University 1,University,CITY_01_D4,Jakarta Selatan,-6.275377,106.807325,6754
+POI_00055,Cilandak University 2,University,CITY_01_D4,Jakarta Selatan,-6.26983,106.794444,8682
+POI_00056,Cilandak Mall 1,Mall,CITY_01_D4,Jakarta Selatan,-6.275259,106.803974,25656
+POI_00057,Cilandak Mall 2,Mall,CITY_01_D4,Jakarta Selatan,-6.275213,106.793438,29370
+POI_00058,Cilandak Mall 3,Mall,CITY_01_D4,Jakarta Selatan,-6.281611,106.799244,31936
+POI_00059,Cilandak Transit Station 1,Transit Station,CITY_01_D4,Jakarta Selatan,-6.275448,106.803956,13496
+POI_00060,Cilandak Transit Station 2,Transit Station,CITY_01_D4,Jakarta Selatan,-6.260536,106.804747,43891
+POI_00061,Cilandak Residential Cluster 1,Residential Cluster,CITY_01_D4,Jakarta Selatan,-6.271395,106.805765,7219
+POI_00062,Cilandak Residential Cluster 2,Residential Cluster,CITY_01_D4,Jakarta Selatan,-6.282069,106.812046,2813
+POI_00063,Cilandak Residential Cluster 3,Residential Cluster,CITY_01_D4,Jakarta Selatan,-6.277121,106.804536,4015
+POI_00064,Cilandak Hospital 1,Hospital,CITY_01_D4,Jakarta Selatan,-6.271796,106.805684,8629
+POI_00065,Pasar Minggu Office Tower 1,Office Tower,CITY_01_D5,Jakarta Selatan,-6.244246,106.819816,4074
+POI_00066,Pasar Minggu Office Tower 2,Office Tower,CITY_01_D5,Jakarta Selatan,-6.241387,106.827512,9569
+POI_00067,Pasar Minggu Office Tower 3,Office Tower,CITY_01_D5,Jakarta Selatan,-6.244222,106.826651,5466
+POI_00068,Pasar Minggu Office Tower 4,Office Tower,CITY_01_D5,Jakarta Selatan,-6.236223,106.824102,8227
+POI_00069,Pasar Minggu Office Tower 5,Office Tower,CITY_01_D5,Jakarta Selatan,-6.244319,106.827877,5022
+POI_00070,Pasar Minggu University 1,University,CITY_01_D5,Jakarta Selatan,-6.243666,106.828617,8696
+POI_00071,Pasar Minggu University 2,University,CITY_01_D5,Jakarta Selatan,-6.243518,106.827247,8877
+POI_00072,Pasar Minggu Mall 1,Mall,CITY_01_D5,Jakarta Selatan,-6.247191,106.841591,19124
+POI_00073,Pasar Minggu Mall 2,Mall,CITY_01_D5,Jakarta Selatan,-6.2552,106.830655,21241
+POI_00074,Pasar Minggu Mall 3,Mall,CITY_01_D5,Jakarta Selatan,-6.242875,106.836415,20097
+POI_00075,Pasar Minggu Transit Station 1,Transit Station,CITY_01_D5,Jakarta Selatan,-6.260705,106.831732,20638
+POI_00076,Pasar Minggu Transit Station 2,Transit Station,CITY_01_D5,Jakarta Selatan,-6.246637,106.823283,15510
+POI_00077,Pasar Minggu Residential Cluster 1,Residential Cluster,CITY_01_D5,Jakarta Selatan,-6.255652,106.818406,2237
+POI_00078,Pasar Minggu Residential Cluster 2,Residential Cluster,CITY_01_D5,Jakarta Selatan,-6.233492,106.826811,2594
+POI_00079,Pasar Minggu Residential Cluster 3,Residential Cluster,CITY_01_D5,Jakarta Selatan,-6.265587,106.836266,2518
+POI_00080,Pasar Minggu Hospital 1,Hospital,CITY_01_D5,Jakarta Selatan,-6.245528,106.824365,9813
+POI_00081,Menteng Office Tower 1,Office Tower,CITY_02_D1,Jakarta Pusat,-6.167871,106.825974,6288
+POI_00082,Menteng Office Tower 2,Office Tower,CITY_02_D1,Jakarta Pusat,-6.169225,106.825875,5963
+POI_00083,Menteng Office Tower 3,Office Tower,CITY_02_D1,Jakarta Pusat,-6.166488,106.826485,8011
+POI_00084,Menteng Office Tower 4,Office Tower,CITY_02_D1,Jakarta Pusat,-6.171659,106.823893,7636
+POI_00085,Menteng Office Tower 5,Office Tower,CITY_02_D1,Jakarta Pusat,-6.170512,106.824425,4971
+POI_00086,Menteng University 1,University,CITY_02_D1,Jakarta Pusat,-6.170298,106.825188,18718
+POI_00087,Menteng University 2,University,CITY_02_D1,Jakarta Pusat,-6.171872,106.821597,5971
+POI_00088,Menteng Mall 1,Mall,CITY_02_D1,Jakarta Pusat,-6.168995,106.822937,17240
+POI_00089,Menteng Mall 2,Mall,CITY_02_D1,Jakarta Pusat,-6.172364,106.825496,32599
+POI_00090,Menteng Mall 3,Mall,CITY_02_D1,Jakarta Pusat,-6.166108,106.830552,32265
+POI_00091,Menteng Transit Station 1,Transit Station,CITY_02_D1,Jakarta Pusat,-6.171003,106.828229,24476
+POI_00092,Menteng Transit Station 2,Transit Station,CITY_02_D1,Jakarta Pusat,-6.172368,106.82294,21133
+POI_00093,Menteng Residential Cluster 1,Residential Cluster,CITY_02_D1,Jakarta Pusat,-6.170791,106.823217,7248
+POI_00094,Menteng Residential Cluster 2,Residential Cluster,CITY_02_D1,Jakarta Pusat,-6.170065,106.822552,4318
+POI_00095,Menteng Residential Cluster 3,Residential Cluster,CITY_02_D1,Jakarta Pusat,-6.1675,106.824114,1992
+POI_00096,Menteng Hospital 1,Hospital,CITY_02_D1,Jakarta Pusat,-6.163497,106.812251,2660
+POI_00097,Tanah Abang Office Tower 1,Office Tower,CITY_02_D2,Jakarta Pusat,-6.171664,106.817168,11159
+POI_00098,Tanah Abang Office Tower 2,Office Tower,CITY_02_D2,Jakarta Pusat,-6.176236,106.830422,10624
+POI_00099,Tanah Abang Office Tower 3,Office Tower,CITY_02_D2,Jakarta Pusat,-6.172295,106.804405,7907
+POI_00100,Tanah Abang Office Tower 4,Office Tower,CITY_02_D2,Jakarta Pusat,-6.171435,106.819045,6813
+POI_00101,Tanah Abang Office Tower 5,Office Tower,CITY_02_D2,Jakarta Pusat,-6.161333,106.816326,4140
+POI_00102,Tanah Abang University 1,University,CITY_02_D2,Jakarta Pusat,-6.170619,106.81771,12945
+POI_00103,Tanah Abang University 2,University,CITY_02_D2,Jakarta Pusat,-6.16082,106.830477,10854
+POI_00104,Tanah Abang Mall 1,Mall,CITY_02_D2,Jakarta Pusat,-6.169373,106.818738,16834
+POI_00105,Tanah Abang Mall 2,Mall,CITY_02_D2,Jakarta Pusat,-6.18084,106.822099,34717
+POI_00106,Tanah Abang Mall 3,Mall,CITY_02_D2,Jakarta Pusat,-6.177084,106.820542,27258
+POI_00107,Tanah Abang Transit Station 1,Transit Station,CITY_02_D2,Jakarta Pusat,-6.17209,106.81363,24954
+POI_00108,Tanah Abang Transit Station 2,Transit Station,CITY_02_D2,Jakarta Pusat,-6.171127,106.813693,8808
+POI_00109,Tanah Abang Residential Cluster 1,Residential Cluster,CITY_02_D2,Jakarta Pusat,-6.169243,106.817657,4748
+POI_00110,Tanah Abang Residential Cluster 2,Residential Cluster,CITY_02_D2,Jakarta Pusat,-6.168332,106.801479,3176
+POI_00111,Tanah Abang Residential Cluster 3,Residential Cluster,CITY_02_D2,Jakarta Pusat,-6.16036,106.827627,7261
+POI_00112,Tanah Abang Hospital 1,Hospital,CITY_02_D2,Jakarta Pusat,-6.174929,106.81447,3911
+POI_00113,Gambir Office Tower 1,Office Tower,CITY_02_D3,Jakarta Pusat,-6.196235,106.821274,4696
+POI_00114,Gambir Office Tower 2,Office Tower,CITY_02_D3,Jakarta Pusat,-6.192899,106.820612,7733
+POI_00115,Gambir Office Tower 3,Office Tower,CITY_02_D3,Jakarta Pusat,-6.197407,106.829025,6310
+POI_00116,Gambir Office Tower 4,Office Tower,CITY_02_D3,Jakarta Pusat,-6.200045,106.820331,4774
+POI_00117,Gambir Office Tower 5,Office Tower,CITY_02_D3,Jakarta Pusat,-6.200791,106.8224,6664
+POI_00118,Gambir University 1,University,CITY_02_D3,Jakarta Pusat,-6.194625,106.828044,11347
+POI_00119,Gambir University 2,University,CITY_02_D3,Jakarta Pusat,-6.1812,106.835022,7464
+POI_00120,Gambir Mall 1,Mall,CITY_02_D3,Jakarta Pusat,-6.184985,106.830502,22402
+POI_00121,Gambir Mall 2,Mall,CITY_02_D3,Jakarta Pusat,-6.193217,106.831718,14173
+POI_00122,Gambir Mall 3,Mall,CITY_02_D3,Jakarta Pusat,-6.181529,106.81744,19581
+POI_00123,Gambir Transit Station 1,Transit Station,CITY_02_D3,Jakarta Pusat,-6.189998,106.819735,24600
+POI_00124,Gambir Transit Station 2,Transit Station,CITY_02_D3,Jakarta Pusat,-6.181998,106.835531,22510
+POI_00125,Gambir Residential Cluster 1,Residential Cluster,CITY_02_D3,Jakarta Pusat,-6.190385,106.820311,5328
+POI_00126,Gambir Residential Cluster 2,Residential Cluster,CITY_02_D3,Jakarta Pusat,-6.194071,106.826487,4252
+POI_00127,Gambir Residential Cluster 3,Residential Cluster,CITY_02_D3,Jakarta Pusat,-6.193036,106.822672,4974
+POI_00128,Gambir Hospital 1,Hospital,CITY_02_D3,Jakarta Pusat,-6.19258,106.821185,5317
+POI_00129,Senen Office Tower 1,Office Tower,CITY_02_D4,Jakarta Pusat,-6.152352,106.838746,9244
+POI_00130,Senen Office Tower 2,Office Tower,CITY_02_D4,Jakarta Pusat,-6.159085,106.829521,3666
+POI_00131,Senen Office Tower 3,Office Tower,CITY_02_D4,Jakarta Pusat,-6.157047,106.84104,8953
+POI_00132,Senen Office Tower 4,Office Tower,CITY_02_D4,Jakarta Pusat,-6.153273,106.83926,10256
+POI_00133,Senen Office Tower 5,Office Tower,CITY_02_D4,Jakarta Pusat,-6.153046,106.838109,11400
+POI_00134,Senen University 1,University,CITY_02_D4,Jakarta Pusat,-6.157538,106.833153,6388
+POI_00135,Senen University 2,University,CITY_02_D4,Jakarta Pusat,-6.159765,106.837117,7021
+POI_00136,Senen Mall 1,Mall,CITY_02_D4,Jakarta Pusat,-6.166135,106.834326,15477
+POI_00137,Senen Mall 2,Mall,CITY_02_D4,Jakarta Pusat,-6.149723,106.845785,32528
+POI_00138,Senen Mall 3,Mall,CITY_02_D4,Jakarta Pusat,-6.162485,106.84893,39000
+POI_00139,Senen Transit Station 1,Transit Station,CITY_02_D4,Jakarta Pusat,-6.150199,106.841455,14358
+POI_00140,Senen Transit Station 2,Transit Station,CITY_02_D4,Jakarta Pusat,-6.151671,106.834452,20420
+POI_00141,Senen Residential Cluster 1,Residential Cluster,CITY_02_D4,Jakarta Pusat,-6.153862,106.835171,6824
+POI_00142,Senen Residential Cluster 2,Residential Cluster,CITY_02_D4,Jakarta Pusat,-6.141163,106.834007,6166
+POI_00143,Senen Residential Cluster 3,Residential Cluster,CITY_02_D4,Jakarta Pusat,-6.159883,106.832451,4690
+POI_00144,Senen Hospital 1,Hospital,CITY_02_D4,Jakarta Pusat,-6.152716,106.834982,10725
+POI_00145,Kebon Jeruk Office Tower 1,Office Tower,CITY_03_D1,Jakarta Barat,-6.154659,106.764172,7579
+POI_00146,Kebon Jeruk Office Tower 2,Office Tower,CITY_03_D1,Jakarta Barat,-6.163055,106.764797,4753
+POI_00147,Kebon Jeruk Office Tower 3,Office Tower,CITY_03_D1,Jakarta Barat,-6.144611,106.769894,4243
+POI_00148,Kebon Jeruk Office Tower 4,Office Tower,CITY_03_D1,Jakarta Barat,-6.160605,106.768812,14398
+POI_00149,Kebon Jeruk Office Tower 5,Office Tower,CITY_03_D1,Jakarta Barat,-6.1534,106.767684,7624
+POI_00150,Kebon Jeruk University 1,University,CITY_03_D1,Jakarta Barat,-6.163352,106.765802,8726
+POI_00151,Kebon Jeruk University 2,University,CITY_03_D1,Jakarta Barat,-6.158615,106.765374,12401
+POI_00152,Kebon Jeruk Mall 1,Mall,CITY_03_D1,Jakarta Barat,-6.16112,106.766442,76044
+POI_00153,Kebon Jeruk Mall 2,Mall,CITY_03_D1,Jakarta Barat,-6.162074,106.754872,27906
+POI_00154,Kebon Jeruk Mall 3,Mall,CITY_03_D1,Jakarta Barat,-6.161361,106.766895,25130
+POI_00155,Kebon Jeruk Transit Station 1,Transit Station,CITY_03_D1,Jakarta Barat,-6.164474,106.767568,15668
+POI_00156,Kebon Jeruk Transit Station 2,Transit Station,CITY_03_D1,Jakarta Barat,-6.160958,106.761512,28745
+POI_00157,Kebon Jeruk Residential Cluster 1,Residential Cluster,CITY_03_D1,Jakarta Barat,-6.163641,106.768118,3588
+POI_00158,Kebon Jeruk Residential Cluster 2,Residential Cluster,CITY_03_D1,Jakarta Barat,-6.158971,106.765223,5850
+POI_00159,Kebon Jeruk Residential Cluster 3,Residential Cluster,CITY_03_D1,Jakarta Barat,-6.163871,106.766364,1814
+POI_00160,Kebon Jeruk Hospital 1,Hospital,CITY_03_D1,Jakarta Barat,-6.169849,106.773372,7030
+POI_00161,Grogol Petamburan Office Tower 1,Office Tower,CITY_03_D2,Jakarta Barat,-6.179404,106.769637,7894
+POI_00162,Grogol Petamburan Office Tower 2,Office Tower,CITY_03_D2,Jakarta Barat,-6.170803,106.749208,3553
+POI_00163,Grogol Petamburan Office Tower 3,Office Tower,CITY_03_D2,Jakarta Barat,-6.173791,106.750006,6409
+POI_00164,Grogol Petamburan Office Tower 4,Office Tower,CITY_03_D2,Jakarta Barat,-6.171602,106.751335,8667
+POI_00165,Grogol Petamburan Office Tower 5,Office Tower,CITY_03_D2,Jakarta Barat,-6.168002,106.754302,12728
+POI_00166,Grogol Petamburan University 1,University,CITY_03_D2,Jakarta Barat,-6.176805,106.743845,13826
+POI_00167,Grogol Petamburan University 2,University,CITY_03_D2,Jakarta Barat,-6.165436,106.75781,6788
+POI_00168,Grogol Petamburan Mall 1,Mall,CITY_03_D2,Jakarta Barat,-6.173799,106.751559,29830
+POI_00169,Grogol Petamburan Mall 2,Mall,CITY_03_D2,Jakarta Barat,-6.173751,106.747734,18463
+POI_00170,Grogol Petamburan Mall 3,Mall,CITY_03_D2,Jakarta Barat,-6.176345,106.753691,14381
+POI_00171,Grogol Petamburan Transit Station 1,Transit Station,CITY_03_D2,Jakarta Barat,-6.170081,106.749477,34861
+POI_00172,Grogol Petamburan Transit Station 2,Transit Station,CITY_03_D2,Jakarta Barat,-6.174045,106.744231,11219
+POI_00173,Grogol Petamburan Residential Cluster 1,Residential Cluster,CITY_03_D2,Jakarta Barat,-6.175993,106.751739,3745
+POI_00174,Grogol Petamburan Residential Cluster 2,Residential Cluster,CITY_03_D2,Jakarta Barat,-6.175452,106.75,4364
+POI_00175,Grogol Petamburan Residential Cluster 3,Residential Cluster,CITY_03_D2,Jakarta Barat,-6.170037,106.746777,5245
+POI_00176,Grogol Petamburan Hospital 1,Hospital,CITY_03_D2,Jakarta Barat,-6.178071,106.753153,5533
+POI_00177,Kembangan Office Tower 1,Office Tower,CITY_03_D3,Jakarta Barat,-6.188358,106.763319,4032
+POI_00178,Kembangan Office Tower 2,Office Tower,CITY_03_D3,Jakarta Barat,-6.183952,106.766309,4649
+POI_00179,Kembangan Office Tower 3,Office Tower,CITY_03_D3,Jakarta Barat,-6.182363,106.768302,6771
+POI_00180,Kembangan Office Tower 4,Office Tower,CITY_03_D3,Jakarta Barat,-6.177401,106.773707,8917
+POI_00181,Kembangan Office Tower 5,Office Tower,CITY_03_D3,Jakarta Barat,-6.183157,106.775731,8261
+POI_00182,Kembangan University 1,University,CITY_03_D3,Jakarta Barat,-6.172955,106.766321,7885
+POI_00183,Kembangan University 2,University,CITY_03_D3,Jakarta Barat,-6.176771,106.769205,8742
+POI_00184,Kembangan Mall 1,Mall,CITY_03_D3,Jakarta Barat,-6.185224,106.781281,44319
+POI_00185,Kembangan Mall 2,Mall,CITY_03_D3,Jakarta Barat,-6.186935,106.770699,10260
+POI_00186,Kembangan Mall 3,Mall,CITY_03_D3,Jakarta Barat,-6.184531,106.772812,17520
+POI_00187,Kembangan Transit Station 1,Transit Station,CITY_03_D3,Jakarta Barat,-6.173298,106.78273,13757
+POI_00188,Kembangan Transit Station 2,Transit Station,CITY_03_D3,Jakarta Barat,-6.184611,106.768677,41958
+POI_00189,Kembangan Residential Cluster 1,Residential Cluster,CITY_03_D3,Jakarta Barat,-6.184179,106.772502,8337
+POI_00190,Kembangan Residential Cluster 2,Residential Cluster,CITY_03_D3,Jakarta Barat,-6.187435,106.770486,2078
+POI_00191,Kembangan Residential Cluster 3,Residential Cluster,CITY_03_D3,Jakarta Barat,-6.183106,106.773818,3267
+POI_00192,Kembangan Hospital 1,Hospital,CITY_03_D3,Jakarta Barat,-6.184162,106.772443,2416
+POI_00193,Palmerah Office Tower 1,Office Tower,CITY_03_D4,Jakarta Barat,-6.156028,106.731343,8237
+POI_00194,Palmerah Office Tower 2,Office Tower,CITY_03_D4,Jakarta Barat,-6.157533,106.737814,3380
+POI_00195,Palmerah Office Tower 3,Office Tower,CITY_03_D4,Jakarta Barat,-6.151721,106.744229,7288
+POI_00196,Palmerah Office Tower 4,Office Tower,CITY_03_D4,Jakarta Barat,-6.157795,106.735378,4804
+POI_00197,Palmerah Office Tower 5,Office Tower,CITY_03_D4,Jakarta Barat,-6.160057,106.735824,7307
+POI_00198,Palmerah University 1,University,CITY_03_D4,Jakarta Barat,-6.142498,106.737354,6793
+POI_00199,Palmerah University 2,University,CITY_03_D4,Jakarta Barat,-6.154196,106.738395,6324
+POI_00200,Palmerah Mall 1,Mall,CITY_03_D4,Jakarta Barat,-6.153454,106.740472,22818
+POI_00201,Palmerah Mall 2,Mall,CITY_03_D4,Jakarta Barat,-6.161723,106.732208,10248
+POI_00202,Palmerah Mall 3,Mall,CITY_03_D4,Jakarta Barat,-6.137316,106.724232,22877
+POI_00203,Palmerah Transit Station 1,Transit Station,CITY_03_D4,Jakarta Barat,-6.155617,106.73408,19643
+POI_00204,Palmerah Transit Station 2,Transit Station,CITY_03_D4,Jakarta Barat,-6.160186,106.743058,27773
+POI_00205,Palmerah Residential Cluster 1,Residential Cluster,CITY_03_D4,Jakarta Barat,-6.144064,106.729573,5322
+POI_00206,Palmerah Residential Cluster 2,Residential Cluster,CITY_03_D4,Jakarta Barat,-6.154269,106.737607,3515
+POI_00207,Palmerah Residential Cluster 3,Residential Cluster,CITY_03_D4,Jakarta Barat,-6.150463,106.739474,2013
+POI_00208,Palmerah Hospital 1,Hospital,CITY_03_D4,Jakarta Barat,-6.152268,106.733732,10292
+POI_00209,Gubeng Office Tower 1,Office Tower,CITY_04_D1,Surabaya,-7.242936,112.763621,4686
+POI_00210,Gubeng Office Tower 2,Office Tower,CITY_04_D1,Surabaya,-7.252806,112.75629,5828
+POI_00211,Gubeng Office Tower 3,Office Tower,CITY_04_D1,Surabaya,-7.245456,112.762985,4624
+POI_00212,Gubeng Office Tower 4,Office Tower,CITY_04_D1,Surabaya,-7.244771,112.762704,3353
+POI_00213,Gubeng Office Tower 5,Office Tower,CITY_04_D1,Surabaya,-7.241926,112.761056,5382
+POI_00214,Gubeng University 1,University,CITY_04_D1,Surabaya,-7.251802,112.762538,9035
+POI_00215,Gubeng University 2,University,CITY_04_D1,Surabaya,-7.23521,112.75957,11319
+POI_00216,Gubeng Mall 1,Mall,CITY_04_D1,Surabaya,-7.229345,112.773717,31827
+POI_00217,Gubeng Mall 2,Mall,CITY_04_D1,Surabaya,-7.246732,112.763202,37298
+POI_00218,Gubeng Mall 3,Mall,CITY_04_D1,Surabaya,-7.243905,112.752759,21839
+POI_00219,Gubeng Transit Station 1,Transit Station,CITY_04_D1,Surabaya,-7.249166,112.76446,18505
+POI_00220,Gubeng Transit Station 2,Transit Station,CITY_04_D1,Surabaya,-7.239508,112.7654,40108
+POI_00221,Gubeng Residential Cluster 1,Residential Cluster,CITY_04_D1,Surabaya,-7.248254,112.760864,4562
+POI_00222,Gubeng Residential Cluster 2,Residential Cluster,CITY_04_D1,Surabaya,-7.242251,112.755766,1634
+POI_00223,Gubeng Residential Cluster 3,Residential Cluster,CITY_04_D1,Surabaya,-7.241579,112.767934,1590
+POI_00224,Gubeng Hospital 1,Hospital,CITY_04_D1,Surabaya,-7.242438,112.769682,4534
+POI_00225,Wonokromo Office Tower 1,Office Tower,CITY_04_D2,Surabaya,-7.243996,112.742451,4490
+POI_00226,Wonokromo Office Tower 2,Office Tower,CITY_04_D2,Surabaya,-7.245282,112.750062,6071
+POI_00227,Wonokromo Office Tower 3,Office Tower,CITY_04_D2,Surabaya,-7.24961,112.748751,8783
+POI_00228,Wonokromo Office Tower 4,Office Tower,CITY_04_D2,Surabaya,-7.24974,112.748911,6098
+POI_00229,Wonokromo Office Tower 5,Office Tower,CITY_04_D2,Surabaya,-7.248826,112.736133,8728
+POI_00230,Wonokromo University 1,University,CITY_04_D2,Surabaya,-7.257835,112.750438,7797
+POI_00231,Wonokromo University 2,University,CITY_04_D2,Surabaya,-7.232989,112.740671,4453
+POI_00232,Wonokromo Mall 1,Mall,CITY_04_D2,Surabaya,-7.260531,112.743999,30122
+POI_00233,Wonokromo Mall 2,Mall,CITY_04_D2,Surabaya,-7.253597,112.757265,17191
+POI_00234,Wonokromo Mall 3,Mall,CITY_04_D2,Surabaya,-7.250126,112.748734,33506
+POI_00235,Wonokromo Transit Station 1,Transit Station,CITY_04_D2,Surabaya,-7.247937,112.750312,23464
+POI_00236,Wonokromo Transit Station 2,Transit Station,CITY_04_D2,Surabaya,-7.243582,112.751333,11522
+POI_00237,Wonokromo Residential Cluster 1,Residential Cluster,CITY_04_D2,Surabaya,-7.255254,112.742901,6471
+POI_00238,Wonokromo Residential Cluster 2,Residential Cluster,CITY_04_D2,Surabaya,-7.257795,112.736059,4186
+POI_00239,Wonokromo Residential Cluster 3,Residential Cluster,CITY_04_D2,Surabaya,-7.261321,112.757708,4946
+POI_00240,Wonokromo Hospital 1,Hospital,CITY_04_D2,Surabaya,-7.256861,112.749893,4937
+POI_00241,Tegalsari Office Tower 1,Office Tower,CITY_04_D3,Surabaya,-7.267346,112.777334,4590
+POI_00242,Tegalsari Office Tower 2,Office Tower,CITY_04_D3,Surabaya,-7.261722,112.765946,7918
+POI_00243,Tegalsari Office Tower 3,Office Tower,CITY_04_D3,Surabaya,-7.261398,112.769205,8919
+POI_00244,Tegalsari Office Tower 4,Office Tower,CITY_04_D3,Surabaya,-7.265148,112.770568,3250
+POI_00245,Tegalsari Office Tower 5,Office Tower,CITY_04_D3,Surabaya,-7.265915,112.772619,3976
+POI_00246,Tegalsari University 1,University,CITY_04_D3,Surabaya,-7.280048,112.76445,13956
+POI_00247,Tegalsari University 2,University,CITY_04_D3,Surabaya,-7.273464,112.776601,8142
+POI_00248,Tegalsari Mall 1,Mall,CITY_04_D3,Surabaya,-7.259465,112.773637,31533
+POI_00249,Tegalsari Mall 2,Mall,CITY_04_D3,Surabaya,-7.266942,112.757513,26357
+POI_00250,Tegalsari Mall 3,Mall,CITY_04_D3,Surabaya,-7.264934,112.782689,38471
+POI_00251,Tegalsari Transit Station 1,Transit Station,CITY_04_D3,Surabaya,-7.265006,112.769535,22419
+POI_00252,Tegalsari Transit Station 2,Transit Station,CITY_04_D3,Surabaya,-7.268443,112.759523,20735
+POI_00253,Tegalsari Residential Cluster 1,Residential Cluster,CITY_04_D3,Surabaya,-7.263278,112.777799,4936
+POI_00254,Tegalsari Residential Cluster 2,Residential Cluster,CITY_04_D3,Surabaya,-7.278912,112.760597,3831
+POI_00255,Tegalsari Residential Cluster 3,Residential Cluster,CITY_04_D3,Surabaya,-7.271335,112.761,6065
+POI_00256,Tegalsari Hospital 1,Hospital,CITY_04_D3,Surabaya,-7.259577,112.76796,3185
+POI_00257,Sukolilo Office Tower 1,Office Tower,CITY_04_D4,Surabaya,-7.243498,112.732194,4033
+POI_00258,Sukolilo Office Tower 2,Office Tower,CITY_04_D4,Surabaya,-7.242199,112.73163,6119
+POI_00259,Sukolilo Office Tower 3,Office Tower,CITY_04_D4,Surabaya,-7.245031,112.733766,5423
+POI_00260,Sukolilo Office Tower 4,Office Tower,CITY_04_D4,Surabaya,-7.241645,112.735286,5648
+POI_00261,Sukolilo Office Tower 5,Office Tower,CITY_04_D4,Surabaya,-7.245086,112.732263,4205
+POI_00262,Sukolilo University 1,University,CITY_04_D4,Surabaya,-7.232515,112.738271,5090
+POI_00263,Sukolilo University 2,University,CITY_04_D4,Surabaya,-7.240199,112.718276,8197
+POI_00264,Sukolilo Mall 1,Mall,CITY_04_D4,Surabaya,-7.242398,112.732483,43725
+POI_00265,Sukolilo Mall 2,Mall,CITY_04_D4,Surabaya,-7.246259,112.732796,50240
+POI_00266,Sukolilo Mall 3,Mall,CITY_04_D4,Surabaya,-7.241169,112.735628,19907
+POI_00267,Sukolilo Transit Station 1,Transit Station,CITY_04_D4,Surabaya,-7.245594,112.733969,38987
+POI_00268,Sukolilo Transit Station 2,Transit Station,CITY_04_D4,Surabaya,-7.245791,112.733068,47194
+POI_00269,Sukolilo Residential Cluster 1,Residential Cluster,CITY_04_D4,Surabaya,-7.233099,112.722936,3876
+POI_00270,Sukolilo Residential Cluster 2,Residential Cluster,CITY_04_D4,Surabaya,-7.241229,112.730829,14350
+POI_00271,Sukolilo Residential Cluster 3,Residential Cluster,CITY_04_D4,Surabaya,-7.245864,112.728144,5928
+POI_00272,Sukolilo Hospital 1,Hospital,CITY_04_D4,Surabaya,-7.244633,112.736845,7068
+POI_00273,Coblong Office Tower 1,Office Tower,CITY_05_D1,Bandung,-6.902788,107.60881,3057
+POI_00274,Coblong Office Tower 2,Office Tower,CITY_05_D1,Bandung,-6.907978,107.614687,3725
+POI_00275,Coblong Office Tower 3,Office Tower,CITY_05_D1,Bandung,-6.906426,107.607023,5027
+POI_00276,Coblong Office Tower 4,Office Tower,CITY_05_D1,Bandung,-6.895306,107.610249,5637
+POI_00277,Coblong Office Tower 5,Office Tower,CITY_05_D1,Bandung,-6.905667,107.606636,7417
+POI_00278,Coblong University 1,University,CITY_05_D1,Bandung,-6.905058,107.601149,8309
+POI_00279,Coblong University 2,University,CITY_05_D1,Bandung,-6.905292,107.591064,8063
+POI_00280,Coblong Mall 1,Mall,CITY_05_D1,Bandung,-6.904933,107.606774,26603
+POI_00281,Coblong Mall 2,Mall,CITY_05_D1,Bandung,-6.910213,107.613299,17249
+POI_00282,Coblong Mall 3,Mall,CITY_05_D1,Bandung,-6.908333,107.615527,30199
+POI_00283,Coblong Transit Station 1,Transit Station,CITY_05_D1,Bandung,-6.902434,107.605829,8097
+POI_00284,Coblong Transit Station 2,Transit Station,CITY_05_D1,Bandung,-6.911333,107.61085,17622
+POI_00285,Coblong Residential Cluster 1,Residential Cluster,CITY_05_D1,Bandung,-6.905471,107.607168,3552
+POI_00286,Coblong Residential Cluster 2,Residential Cluster,CITY_05_D1,Bandung,-6.910155,107.610298,2849
+POI_00287,Coblong Residential Cluster 3,Residential Cluster,CITY_05_D1,Bandung,-6.893759,107.603441,4702
+POI_00288,Coblong Hospital 1,Hospital,CITY_05_D1,Bandung,-6.90694,107.607084,9277
+POI_00289,Sukajadi Office Tower 1,Office Tower,CITY_05_D2,Bandung,-6.920822,107.629067,4313
+POI_00290,Sukajadi Office Tower 2,Office Tower,CITY_05_D2,Bandung,-6.918237,107.629994,8285
+POI_00291,Sukajadi Office Tower 3,Office Tower,CITY_05_D2,Bandung,-6.913122,107.628847,10540
+POI_00292,Sukajadi Office Tower 4,Office Tower,CITY_05_D2,Bandung,-6.926716,107.634138,8198
+POI_00293,Sukajadi Office Tower 5,Office Tower,CITY_05_D2,Bandung,-6.905845,107.628761,5842
+POI_00294,Sukajadi University 1,University,CITY_05_D2,Bandung,-6.921515,107.62951,6447
+POI_00295,Sukajadi University 2,University,CITY_05_D2,Bandung,-6.922854,107.613373,7571
+POI_00296,Sukajadi Mall 1,Mall,CITY_05_D2,Bandung,-6.921588,107.626766,27730
+POI_00297,Sukajadi Mall 2,Mall,CITY_05_D2,Bandung,-6.918566,107.631179,42878
+POI_00298,Sukajadi Mall 3,Mall,CITY_05_D2,Bandung,-6.921888,107.631021,34057
+POI_00299,Sukajadi Transit Station 1,Transit Station,CITY_05_D2,Bandung,-6.920467,107.628795,32084
+POI_00300,Sukajadi Transit Station 2,Transit Station,CITY_05_D2,Bandung,-6.919986,107.629872,31399
+POI_00301,Sukajadi Residential Cluster 1,Residential Cluster,CITY_05_D2,Bandung,-6.927298,107.621003,4517
+POI_00302,Sukajadi Residential Cluster 2,Residential Cluster,CITY_05_D2,Bandung,-6.921702,107.625927,1246
+POI_00303,Sukajadi Residential Cluster 3,Residential Cluster,CITY_05_D2,Bandung,-6.948168,107.640972,2019
+POI_00304,Sukajadi Hospital 1,Hospital,CITY_05_D2,Bandung,-6.917971,107.630836,3087
+POI_00305,Cicendo Office Tower 1,Office Tower,CITY_05_D3,Bandung,-6.91268,107.633927,7810
+POI_00306,Cicendo Office Tower 2,Office Tower,CITY_05_D3,Bandung,-6.911633,107.634191,4442
+POI_00307,Cicendo Office Tower 3,Office Tower,CITY_05_D3,Bandung,-6.912891,107.633752,3843
+POI_00308,Cicendo Office Tower 4,Office Tower,CITY_05_D3,Bandung,-6.90674,107.632772,9602
+POI_00309,Cicendo Office Tower 5,Office Tower,CITY_05_D3,Bandung,-6.911,107.635525,6358
+POI_00310,Cicendo University 1,University,CITY_05_D3,Bandung,-6.90954,107.630009,5432
+POI_00311,Cicendo University 2,University,CITY_05_D3,Bandung,-6.921563,107.632596,6871
+POI_00312,Cicendo Mall 1,Mall,CITY_05_D3,Bandung,-6.914788,107.63101,32381
+POI_00313,Cicendo Mall 2,Mall,CITY_05_D3,Bandung,-6.911109,107.63291,36106
+POI_00314,Cicendo Mall 3,Mall,CITY_05_D3,Bandung,-6.916907,107.636858,15341
+POI_00315,Cicendo Transit Station 1,Transit Station,CITY_05_D3,Bandung,-6.91421,107.635861,18158
+POI_00316,Cicendo Transit Station 2,Transit Station,CITY_05_D3,Bandung,-6.901274,107.630037,45150
+POI_00317,Cicendo Residential Cluster 1,Residential Cluster,CITY_05_D3,Bandung,-6.91356,107.633873,4633
+POI_00318,Cicendo Residential Cluster 2,Residential Cluster,CITY_05_D3,Bandung,-6.913638,107.633752,4239
+POI_00319,Cicendo Residential Cluster 3,Residential Cluster,CITY_05_D3,Bandung,-6.912435,107.633516,3005
+POI_00320,Cicendo Hospital 1,Hospital,CITY_05_D3,Bandung,-6.909853,107.629611,4920
+POI_00321,Lengkong Office Tower 1,Office Tower,CITY_05_D4,Bandung,-6.907306,107.637239,4048
+POI_00322,Lengkong Office Tower 2,Office Tower,CITY_05_D4,Bandung,-6.900812,107.640157,3421
+POI_00323,Lengkong Office Tower 3,Office Tower,CITY_05_D4,Bandung,-6.89636,107.639017,6774
+POI_00324,Lengkong Office Tower 4,Office Tower,CITY_05_D4,Bandung,-6.901963,107.638412,8500
+POI_00325,Lengkong Office Tower 5,Office Tower,CITY_05_D4,Bandung,-6.906962,107.637672,7816
+POI_00326,Lengkong University 1,University,CITY_05_D4,Bandung,-6.909157,107.622273,7003
+POI_00327,Lengkong University 2,University,CITY_05_D4,Bandung,-6.904859,107.638618,8088
+POI_00328,Lengkong Mall 1,Mall,CITY_05_D4,Bandung,-6.895935,107.634699,29176
+POI_00329,Lengkong Mall 2,Mall,CITY_05_D4,Bandung,-6.908301,107.637285,21781
+POI_00330,Lengkong Mall 3,Mall,CITY_05_D4,Bandung,-6.910345,107.644527,21523
+POI_00331,Lengkong Transit Station 1,Transit Station,CITY_05_D4,Bandung,-6.906832,107.64392,15034
+POI_00332,Lengkong Transit Station 2,Transit Station,CITY_05_D4,Bandung,-6.906243,107.633376,22943
+POI_00333,Lengkong Residential Cluster 1,Residential Cluster,CITY_05_D4,Bandung,-6.89863,107.635316,3245
+POI_00334,Lengkong Residential Cluster 2,Residential Cluster,CITY_05_D4,Bandung,-6.908253,107.645753,4793
+POI_00335,Lengkong Residential Cluster 3,Residential Cluster,CITY_05_D4,Bandung,-6.906332,107.638792,4204
+POI_00336,Lengkong Hospital 1,Hospital,CITY_05_D4,Bandung,-6.903309,107.62771,8855
+POI_00337,Serpong Office Tower 1,Office Tower,CITY_06_D1,Tangerang Selatan,-6.300936,106.708157,11868
+POI_00338,Serpong Office Tower 2,Office Tower,CITY_06_D1,Tangerang Selatan,-6.308728,106.712942,5126
+POI_00339,Serpong Office Tower 3,Office Tower,CITY_06_D1,Tangerang Selatan,-6.299881,106.717938,7958
+POI_00340,Serpong Office Tower 4,Office Tower,CITY_06_D1,Tangerang Selatan,-6.300826,106.709563,6131
+POI_00341,Serpong Office Tower 5,Office Tower,CITY_06_D1,Tangerang Selatan,-6.299052,106.710622,3508
+POI_00342,Serpong University 1,University,CITY_06_D1,Tangerang Selatan,-6.298565,106.70988,13733
+POI_00343,Serpong University 2,University,CITY_06_D1,Tangerang Selatan,-6.303554,106.705744,14387
+POI_00344,Serpong Mall 1,Mall,CITY_06_D1,Tangerang Selatan,-6.299771,106.710343,31985
+POI_00345,Serpong Mall 2,Mall,CITY_06_D1,Tangerang Selatan,-6.299401,106.709113,22849
+POI_00346,Serpong Mall 3,Mall,CITY_06_D1,Tangerang Selatan,-6.29217,106.71881,34936
+POI_00347,Serpong Transit Station 1,Transit Station,CITY_06_D1,Tangerang Selatan,-6.298048,106.70493,22101
+POI_00348,Serpong Transit Station 2,Transit Station,CITY_06_D1,Tangerang Selatan,-6.301644,106.708656,16942
+POI_00349,Serpong Residential Cluster 1,Residential Cluster,CITY_06_D1,Tangerang Selatan,-6.300294,106.709774,7567
+POI_00350,Serpong Residential Cluster 2,Residential Cluster,CITY_06_D1,Tangerang Selatan,-6.308143,106.70813,6612
+POI_00351,Serpong Residential Cluster 3,Residential Cluster,CITY_06_D1,Tangerang Selatan,-6.299086,106.704382,5111
+POI_00352,Serpong Hospital 1,Hospital,CITY_06_D1,Tangerang Selatan,-6.308182,106.705041,6504
+POI_00353,Pamulang Office Tower 1,Office Tower,CITY_06_D2,Tangerang Selatan,-6.301836,106.726197,5951
+POI_00354,Pamulang Office Tower 2,Office Tower,CITY_06_D2,Tangerang Selatan,-6.312635,106.729501,6910
+POI_00355,Pamulang Office Tower 3,Office Tower,CITY_06_D2,Tangerang Selatan,-6.3191,106.738139,5741
+POI_00356,Pamulang Office Tower 4,Office Tower,CITY_06_D2,Tangerang Selatan,-6.314441,106.723594,7943
+POI_00357,Pamulang Office Tower 5,Office Tower,CITY_06_D2,Tangerang Selatan,-6.312723,106.737553,6037
+POI_00358,Pamulang University 1,University,CITY_06_D2,Tangerang Selatan,-6.312265,106.733599,16457
+POI_00359,Pamulang University 2,University,CITY_06_D2,Tangerang Selatan,-6.311015,106.732432,3501
+POI_00360,Pamulang Mall 1,Mall,CITY_06_D2,Tangerang Selatan,-6.314662,106.732403,20448
+POI_00361,Pamulang Mall 2,Mall,CITY_06_D2,Tangerang Selatan,-6.312003,106.732574,45043
+POI_00362,Pamulang Mall 3,Mall,CITY_06_D2,Tangerang Selatan,-6.31244,106.73144,25964
+POI_00363,Pamulang Transit Station 1,Transit Station,CITY_06_D2,Tangerang Selatan,-6.326737,106.731477,8709
+POI_00364,Pamulang Transit Station 2,Transit Station,CITY_06_D2,Tangerang Selatan,-6.308403,106.732304,22154
+POI_00365,Pamulang Residential Cluster 1,Residential Cluster,CITY_06_D2,Tangerang Selatan,-6.310125,106.734277,3450
+POI_00366,Pamulang Residential Cluster 2,Residential Cluster,CITY_06_D2,Tangerang Selatan,-6.305261,106.735242,4331
+POI_00367,Pamulang Residential Cluster 3,Residential Cluster,CITY_06_D2,Tangerang Selatan,-6.312877,106.733668,3214
+POI_00368,Pamulang Hospital 1,Hospital,CITY_06_D2,Tangerang Selatan,-6.312457,106.730601,4917
+POI_00369,Ciputat Office Tower 1,Office Tower,CITY_06_D3,Tangerang Selatan,-6.290454,106.746733,5991
+POI_00370,Ciputat Office Tower 2,Office Tower,CITY_06_D3,Tangerang Selatan,-6.301346,106.745426,4701
+POI_00371,Ciputat Office Tower 3,Office Tower,CITY_06_D3,Tangerang Selatan,-6.306281,106.753137,5626
+POI_00372,Ciputat Office Tower 4,Office Tower,CITY_06_D3,Tangerang Selatan,-6.290501,106.755094,3092
+POI_00373,Ciputat Office Tower 5,Office Tower,CITY_06_D3,Tangerang Selatan,-6.285254,106.745675,6412
+POI_00374,Ciputat University 1,University,CITY_06_D3,Tangerang Selatan,-6.298861,106.749064,8599
+POI_00375,Ciputat University 2,University,CITY_06_D3,Tangerang Selatan,-6.289991,106.745754,4778
+POI_00376,Ciputat Mall 1,Mall,CITY_06_D3,Tangerang Selatan,-6.295915,106.740206,34653
+POI_00377,Ciputat Mall 2,Mall,CITY_06_D3,Tangerang Selatan,-6.293287,106.757389,23706
+POI_00378,Ciputat Mall 3,Mall,CITY_06_D3,Tangerang Selatan,-6.29733,106.74317,25427
+POI_00379,Ciputat Transit Station 1,Transit Station,CITY_06_D3,Tangerang Selatan,-6.291822,106.738145,19877
+POI_00380,Ciputat Transit Station 2,Transit Station,CITY_06_D3,Tangerang Selatan,-6.287613,106.760837,48252
+POI_00381,Ciputat Residential Cluster 1,Residential Cluster,CITY_06_D3,Tangerang Selatan,-6.286256,106.748725,7287
+POI_00382,Ciputat Residential Cluster 2,Residential Cluster,CITY_06_D3,Tangerang Selatan,-6.287079,106.75493,3312
+POI_00383,Ciputat Residential Cluster 3,Residential Cluster,CITY_06_D3,Tangerang Selatan,-6.292616,106.746567,3101
+POI_00384,Ciputat Hospital 1,Hospital,CITY_06_D3,Tangerang Selatan,-6.28812,106.743714,3457
+POI_00385,Pondok Aren Office Tower 1,Office Tower,CITY_06_D4,Tangerang Selatan,-6.276842,106.709867,4986
+POI_00386,Pondok Aren Office Tower 2,Office Tower,CITY_06_D4,Tangerang Selatan,-6.271712,106.718523,3215
+POI_00387,Pondok Aren Office Tower 3,Office Tower,CITY_06_D4,Tangerang Selatan,-6.28494,106.702343,11270
+POI_00388,Pondok Aren Office Tower 4,Office Tower,CITY_06_D4,Tangerang Selatan,-6.288801,106.70973,7819
+POI_00389,Pondok Aren Office Tower 5,Office Tower,CITY_06_D4,Tangerang Selatan,-6.27845,106.716774,8181
+POI_00390,Pondok Aren University 1,University,CITY_06_D4,Tangerang Selatan,-6.2741,106.707347,10135
+POI_00391,Pondok Aren University 2,University,CITY_06_D4,Tangerang Selatan,-6.282495,106.710994,5171
+POI_00392,Pondok Aren Mall 1,Mall,CITY_06_D4,Tangerang Selatan,-6.278291,106.708745,30662
+POI_00393,Pondok Aren Mall 2,Mall,CITY_06_D4,Tangerang Selatan,-6.278407,106.709262,33799
+POI_00394,Pondok Aren Mall 3,Mall,CITY_06_D4,Tangerang Selatan,-6.266458,106.713857,44837
+POI_00395,Pondok Aren Transit Station 1,Transit Station,CITY_06_D4,Tangerang Selatan,-6.285593,106.697855,17811
+POI_00396,Pondok Aren Transit Station 2,Transit Station,CITY_06_D4,Tangerang Selatan,-6.278066,106.708946,18678
+POI_00397,Pondok Aren Residential Cluster 1,Residential Cluster,CITY_06_D4,Tangerang Selatan,-6.27887,106.710721,2156
+POI_00398,Pondok Aren Residential Cluster 2,Residential Cluster,CITY_06_D4,Tangerang Selatan,-6.274558,106.69769,2925
+POI_00399,Pondok Aren Residential Cluster 3,Residential Cluster,CITY_06_D4,Tangerang Selatan,-6.283259,106.706248,3129
+POI_00400,Pondok Aren Hospital 1,Hospital,CITY_06_D4,Tangerang Selatan,-6.278038,106.709271,9856
+POI_00401,Bekasi Selatan Office Tower 1,Office Tower,CITY_07_D1,Bekasi,-6.213233,106.988921,6504
+POI_00402,Bekasi Selatan Office Tower 2,Office Tower,CITY_07_D1,Bekasi,-6.209984,106.987801,8645
+POI_00403,Bekasi Selatan Office Tower 3,Office Tower,CITY_07_D1,Bekasi,-6.21956,106.984167,12268
+POI_00404,Bekasi Selatan Office Tower 4,Office Tower,CITY_07_D1,Bekasi,-6.217808,106.99099,7701
+POI_00405,Bekasi Selatan Office Tower 5,Office Tower,CITY_07_D1,Bekasi,-6.216874,106.987951,5219
+POI_00406,Bekasi Selatan University 1,University,CITY_07_D1,Bekasi,-6.219466,106.986866,7426
+POI_00407,Bekasi Selatan University 2,University,CITY_07_D1,Bekasi,-6.234442,106.987393,3620
+POI_00408,Bekasi Selatan Mall 1,Mall,CITY_07_D1,Bekasi,-6.216679,106.987637,29737
+POI_00409,Bekasi Selatan Mall 2,Mall,CITY_07_D1,Bekasi,-6.216618,106.988026,59958
+POI_00410,Bekasi Selatan Mall 3,Mall,CITY_07_D1,Bekasi,-6.217333,106.986851,22570
+POI_00411,Bekasi Selatan Transit Station 1,Transit Station,CITY_07_D1,Bekasi,-6.233907,106.990817,24417
+POI_00412,Bekasi Selatan Transit Station 2,Transit Station,CITY_07_D1,Bekasi,-6.219549,107.000631,16906
+POI_00413,Bekasi Selatan Residential Cluster 1,Residential Cluster,CITY_07_D1,Bekasi,-6.20952,106.991117,4110
+POI_00414,Bekasi Selatan Residential Cluster 2,Residential Cluster,CITY_07_D1,Bekasi,-6.202076,106.973525,5144
+POI_00415,Bekasi Selatan Residential Cluster 3,Residential Cluster,CITY_07_D1,Bekasi,-6.21655,106.986089,1491
+POI_00416,Bekasi Selatan Hospital 1,Hospital,CITY_07_D1,Bekasi,-6.223046,106.980281,1617
+POI_00417,Bekasi Barat Office Tower 1,Office Tower,CITY_07_D2,Bekasi,-6.23609,106.968528,8318
+POI_00418,Bekasi Barat Office Tower 2,Office Tower,CITY_07_D2,Bekasi,-6.234461,106.96797,7711
+POI_00419,Bekasi Barat Office Tower 3,Office Tower,CITY_07_D2,Bekasi,-6.231095,106.957377,4894
+POI_00420,Bekasi Barat Office Tower 4,Office Tower,CITY_07_D2,Bekasi,-6.233446,106.966719,3550
+POI_00421,Bekasi Barat Office Tower 5,Office Tower,CITY_07_D2,Bekasi,-6.231325,106.974427,7458
+POI_00422,Bekasi Barat University 1,University,CITY_07_D2,Bekasi,-6.232305,106.967031,10903
+POI_00423,Bekasi Barat University 2,University,CITY_07_D2,Bekasi,-6.226024,106.961933,11505
+POI_00424,Bekasi Barat Mall 1,Mall,CITY_07_D2,Bekasi,-6.231403,106.964036,56601
+POI_00425,Bekasi Barat Mall 2,Mall,CITY_07_D2,Bekasi,-6.230686,106.971484,79562
+POI_00426,Bekasi Barat Mall 3,Mall,CITY_07_D2,Bekasi,-6.23814,106.962493,31924
+POI_00427,Bekasi Barat Transit Station 1,Transit Station,CITY_07_D2,Bekasi,-6.232329,106.970983,14574
+POI_00428,Bekasi Barat Transit Station 2,Transit Station,CITY_07_D2,Bekasi,-6.233971,106.969377,16433
+POI_00429,Bekasi Barat Residential Cluster 1,Residential Cluster,CITY_07_D2,Bekasi,-6.232446,106.966524,3636
+POI_00430,Bekasi Barat Residential Cluster 2,Residential Cluster,CITY_07_D2,Bekasi,-6.237412,106.976473,4633
+POI_00431,Bekasi Barat Residential Cluster 3,Residential Cluster,CITY_07_D2,Bekasi,-6.236559,106.968731,3461
+POI_00432,Bekasi Barat Hospital 1,Hospital,CITY_07_D2,Bekasi,-6.234975,106.969688,4440
+POI_00433,Bekasi Utara Office Tower 1,Office Tower,CITY_07_D3,Bekasi,-6.232458,106.9662,7713
+POI_00434,Bekasi Utara Office Tower 2,Office Tower,CITY_07_D3,Bekasi,-6.237728,106.977885,10918
+POI_00435,Bekasi Utara Office Tower 3,Office Tower,CITY_07_D3,Bekasi,-6.24723,106.964124,9243
+POI_00436,Bekasi Utara Office Tower 4,Office Tower,CITY_07_D3,Bekasi,-6.246267,106.974493,6570
+POI_00437,Bekasi Utara Office Tower 5,Office Tower,CITY_07_D3,Bekasi,-6.239668,106.968632,7121
+POI_00438,Bekasi Utara University 1,University,CITY_07_D3,Bekasi,-6.242445,106.976997,13232
+POI_00439,Bekasi Utara University 2,University,CITY_07_D3,Bekasi,-6.235051,106.964782,7586
+POI_00440,Bekasi Utara Mall 1,Mall,CITY_07_D3,Bekasi,-6.234741,106.966855,44333
+POI_00441,Bekasi Utara Mall 2,Mall,CITY_07_D3,Bekasi,-6.234046,106.969767,18651
+POI_00442,Bekasi Utara Mall 3,Mall,CITY_07_D3,Bekasi,-6.240402,106.978243,21654
+POI_00443,Bekasi Utara Transit Station 1,Transit Station,CITY_07_D3,Bekasi,-6.222592,106.975702,46394
+POI_00444,Bekasi Utara Transit Station 2,Transit Station,CITY_07_D3,Bekasi,-6.23387,106.967639,27728
+POI_00445,Bekasi Utara Residential Cluster 1,Residential Cluster,CITY_07_D3,Bekasi,-6.236702,106.976868,3534
+POI_00446,Bekasi Utara Residential Cluster 2,Residential Cluster,CITY_07_D3,Bekasi,-6.232036,106.969625,3189
+POI_00447,Bekasi Utara Residential Cluster 3,Residential Cluster,CITY_07_D3,Bekasi,-6.236197,106.965458,5222
+POI_00448,Bekasi Utara Hospital 1,Hospital,CITY_07_D3,Bekasi,-6.2383,106.964416,4156
+POI_00449,Medan Satria Office Tower 1,Office Tower,CITY_07_D4,Bekasi,-6.251748,106.950694,16182
+POI_00450,Medan Satria Office Tower 2,Office Tower,CITY_07_D4,Bekasi,-6.254404,106.94739,6709
+POI_00451,Medan Satria Office Tower 3,Office Tower,CITY_07_D4,Bekasi,-6.259105,106.954915,7755
+POI_00452,Medan Satria Office Tower 4,Office Tower,CITY_07_D4,Bekasi,-6.256081,106.954059,4607
+POI_00453,Medan Satria Office Tower 5,Office Tower,CITY_07_D4,Bekasi,-6.254425,106.947822,8620
+POI_00454,Medan Satria University 1,University,CITY_07_D4,Bekasi,-6.255489,106.955768,5588
+POI_00455,Medan Satria University 2,University,CITY_07_D4,Bekasi,-6.249101,106.965084,8908
+POI_00456,Medan Satria Mall 1,Mall,CITY_07_D4,Bekasi,-6.257598,106.95112,8248
+POI_00457,Medan Satria Mall 2,Mall,CITY_07_D4,Bekasi,-6.256628,106.945611,20622
+POI_00458,Medan Satria Mall 3,Mall,CITY_07_D4,Bekasi,-6.252798,106.965021,47833
+POI_00459,Medan Satria Transit Station 1,Transit Station,CITY_07_D4,Bekasi,-6.259211,106.953163,55843
+POI_00460,Medan Satria Transit Station 2,Transit Station,CITY_07_D4,Bekasi,-6.256931,106.952247,17373
+POI_00461,Medan Satria Residential Cluster 1,Residential Cluster,CITY_07_D4,Bekasi,-6.255878,106.958546,3858
+POI_00462,Medan Satria Residential Cluster 2,Residential Cluster,CITY_07_D4,Bekasi,-6.269123,106.957058,3844
+POI_00463,Medan Satria Residential Cluster 3,Residential Cluster,CITY_07_D4,Bekasi,-6.257994,106.95515,8218
+POI_00464,Medan Satria Hospital 1,Hospital,CITY_07_D4,Bekasi,-6.2641,106.950602,3678
+POI_00465,Medan Petisah Office Tower 1,Office Tower,CITY_08_D1,Medan,3.607596,98.649712,3850
+POI_00466,Medan Petisah Office Tower 2,Office Tower,CITY_08_D1,Medan,3.62203,98.663206,6931
+POI_00467,Medan Petisah Office Tower 3,Office Tower,CITY_08_D1,Medan,3.608079,98.660161,2686
+POI_00468,Medan Petisah Office Tower 4,Office Tower,CITY_08_D1,Medan,3.607161,98.661167,15342
+POI_00469,Medan Petisah Office Tower 5,Office Tower,CITY_08_D1,Medan,3.607108,98.663171,13125
+POI_00470,Medan Petisah University 1,University,CITY_08_D1,Medan,3.612408,98.658954,8483
+POI_00471,Medan Petisah University 2,University,CITY_08_D1,Medan,3.601658,98.660543,5861
+POI_00472,Medan Petisah Mall 1,Mall,CITY_08_D1,Medan,3.616691,98.653162,30679
+POI_00473,Medan Petisah Mall 2,Mall,CITY_08_D1,Medan,3.612939,98.659394,26660
+POI_00474,Medan Petisah Mall 3,Mall,CITY_08_D1,Medan,3.605266,98.651873,23354
+POI_00475,Medan Petisah Transit Station 1,Transit Station,CITY_08_D1,Medan,3.608286,98.65753,13904
+POI_00476,Medan Petisah Transit Station 2,Transit Station,CITY_08_D1,Medan,3.599149,98.663931,17561
+POI_00477,Medan Petisah Residential Cluster 1,Residential Cluster,CITY_08_D1,Medan,3.618746,98.660749,4592
+POI_00478,Medan Petisah Residential Cluster 2,Residential Cluster,CITY_08_D1,Medan,3.608799,98.65617,1732
+POI_00479,Medan Petisah Residential Cluster 3,Residential Cluster,CITY_08_D1,Medan,3.591713,98.660307,4242
+POI_00480,Medan Petisah Hospital 1,Hospital,CITY_08_D1,Medan,3.611245,98.663147,7032
+POI_00481,Medan Baru Office Tower 1,Office Tower,CITY_08_D2,Medan,3.60017,98.673005,5848
+POI_00482,Medan Baru Office Tower 2,Office Tower,CITY_08_D2,Medan,3.597068,98.670285,2208
+POI_00483,Medan Baru Office Tower 3,Office Tower,CITY_08_D2,Medan,3.603739,98.664562,5598
+POI_00484,Medan Baru Office Tower 4,Office Tower,CITY_08_D2,Medan,3.60709,98.65397,6197
+POI_00485,Medan Baru Office Tower 5,Office Tower,CITY_08_D2,Medan,3.605436,98.658439,8284
+POI_00486,Medan Baru University 1,University,CITY_08_D2,Medan,3.601399,98.656155,5085
+POI_00487,Medan Baru University 2,University,CITY_08_D2,Medan,3.609647,98.669418,10934
+POI_00488,Medan Baru Mall 1,Mall,CITY_08_D2,Medan,3.598531,98.667734,49342
+POI_00489,Medan Baru Mall 2,Mall,CITY_08_D2,Medan,3.600356,98.668628,29577
+POI_00490,Medan Baru Mall 3,Mall,CITY_08_D2,Medan,3.615751,98.662135,24473
+POI_00491,Medan Baru Transit Station 1,Transit Station,CITY_08_D2,Medan,3.610136,98.659743,27459
+POI_00492,Medan Baru Transit Station 2,Transit Station,CITY_08_D2,Medan,3.615891,98.669517,16485
+POI_00493,Medan Baru Residential Cluster 1,Residential Cluster,CITY_08_D2,Medan,3.603786,98.6662,2320
+POI_00494,Medan Baru Residential Cluster 2,Residential Cluster,CITY_08_D2,Medan,3.59933,98.66092,5478
+POI_00495,Medan Baru Residential Cluster 3,Residential Cluster,CITY_08_D2,Medan,3.60362,98.663836,3439
+POI_00496,Medan Baru Hospital 1,Hospital,CITY_08_D2,Medan,3.609842,98.667603,3106
+POI_00497,Medan Selayang Office Tower 1,Office Tower,CITY_08_D3,Medan,3.61504,98.672946,3516
+POI_00498,Medan Selayang Office Tower 2,Office Tower,CITY_08_D3,Medan,3.610914,98.673453,7605
+POI_00499,Medan Selayang Office Tower 3,Office Tower,CITY_08_D3,Medan,3.617316,98.664989,4003
+POI_00500,Medan Selayang Office Tower 4,Office Tower,CITY_08_D3,Medan,3.60935,98.681818,2736
+POI_00501,Medan Selayang Office Tower 5,Office Tower,CITY_08_D3,Medan,3.611453,98.682841,6240
+POI_00502,Medan Selayang University 1,University,CITY_08_D3,Medan,3.603801,98.675582,7725
+POI_00503,Medan Selayang University 2,University,CITY_08_D3,Medan,3.59004,98.673138,11814
+POI_00504,Medan Selayang Mall 1,Mall,CITY_08_D3,Medan,3.612617,98.674726,15450
+POI_00505,Medan Selayang Mall 2,Mall,CITY_08_D3,Medan,3.608044,98.674397,20093
+POI_00506,Medan Selayang Mall 3,Mall,CITY_08_D3,Medan,3.608731,98.677132,30587
+POI_00507,Medan Selayang Transit Station 1,Transit Station,CITY_08_D3,Medan,3.603173,98.684814,14370
+POI_00508,Medan Selayang Transit Station 2,Transit Station,CITY_08_D3,Medan,3.599905,98.673751,36527
+POI_00509,Medan Selayang Residential Cluster 1,Residential Cluster,CITY_08_D3,Medan,3.611545,98.67426,6927
+POI_00510,Medan Selayang Residential Cluster 2,Residential Cluster,CITY_08_D3,Medan,3.610665,98.673099,3688
+POI_00511,Medan Selayang Residential Cluster 3,Residential Cluster,CITY_08_D3,Medan,3.606905,98.674246,3637
+POI_00512,Medan Selayang Hospital 1,Hospital,CITY_08_D3,Medan,3.609763,98.673468,3747
+POI_00513,Medan Johor Office Tower 1,Office Tower,CITY_08_D4,Medan,3.60621,98.656898,8357
+POI_00514,Medan Johor Office Tower 2,Office Tower,CITY_08_D4,Medan,3.597786,98.657906,10616
+POI_00515,Medan Johor Office Tower 3,Office Tower,CITY_08_D4,Medan,3.597975,98.669825,2597
+POI_00516,Medan Johor Office Tower 4,Office Tower,CITY_08_D4,Medan,3.60557,98.662287,10210
+POI_00517,Medan Johor Office Tower 5,Office Tower,CITY_08_D4,Medan,3.608899,98.659551,7033
+POI_00518,Medan Johor University 1,University,CITY_08_D4,Medan,3.60421,98.66345,12504
+POI_00519,Medan Johor University 2,University,CITY_08_D4,Medan,3.594691,98.660793,8129
+POI_00520,Medan Johor Mall 1,Mall,CITY_08_D4,Medan,3.600491,98.650122,32899
+POI_00521,Medan Johor Mall 2,Mall,CITY_08_D4,Medan,3.598794,98.661847,34869
+POI_00522,Medan Johor Mall 3,Mall,CITY_08_D4,Medan,3.602981,98.661894,25650
+POI_00523,Medan Johor Transit Station 1,Transit Station,CITY_08_D4,Medan,3.601825,98.660606,16686
+POI_00524,Medan Johor Transit Station 2,Transit Station,CITY_08_D4,Medan,3.597168,98.670676,27296
+POI_00525,Medan Johor Residential Cluster 1,Residential Cluster,CITY_08_D4,Medan,3.600815,98.661024,2149
+POI_00526,Medan Johor Residential Cluster 2,Residential Cluster,CITY_08_D4,Medan,3.588793,98.665859,5435
+POI_00527,Medan Johor Residential Cluster 3,Residential Cluster,CITY_08_D4,Medan,3.592956,98.67868,2591
+POI_00528,Medan Johor Hospital 1,Hospital,CITY_08_D4,Medan,3.59137,98.652452,7915
+POI_00529,Beji Office Tower 1,Office Tower,CITY_09_D1,Depok,-6.387319,106.807371,6401
+POI_00530,Beji Office Tower 2,Office Tower,CITY_09_D1,Depok,-6.393016,106.809668,7942
+POI_00531,Beji Office Tower 3,Office Tower,CITY_09_D1,Depok,-6.405922,106.81024,9851
+POI_00532,Beji Office Tower 4,Office Tower,CITY_09_D1,Depok,-6.397838,106.805365,5929
+POI_00533,Beji Office Tower 5,Office Tower,CITY_09_D1,Depok,-6.384676,106.810133,5350
+POI_00534,Beji University 1,University,CITY_09_D1,Depok,-6.392734,106.803377,10468
+POI_00535,Beji University 2,University,CITY_09_D1,Depok,-6.394391,106.809913,7657
+POI_00536,Beji Mall 1,Mall,CITY_09_D1,Depok,-6.394349,106.812673,14342
+POI_00537,Beji Mall 2,Mall,CITY_09_D1,Depok,-6.396097,106.811472,16323
+POI_00538,Beji Mall 3,Mall,CITY_09_D1,Depok,-6.393619,106.804862,69552
+POI_00539,Beji Transit Station 1,Transit Station,CITY_09_D1,Depok,-6.391232,106.808778,14028
+POI_00540,Beji Transit Station 2,Transit Station,CITY_09_D1,Depok,-6.393993,106.808292,8689
+POI_00541,Beji Residential Cluster 1,Residential Cluster,CITY_09_D1,Depok,-6.395935,106.793401,3356
+POI_00542,Beji Residential Cluster 2,Residential Cluster,CITY_09_D1,Depok,-6.399322,106.803281,3768
+POI_00543,Beji Residential Cluster 3,Residential Cluster,CITY_09_D1,Depok,-6.410029,106.815583,5199
+POI_00544,Beji Hospital 1,Hospital,CITY_09_D1,Depok,-6.386491,106.813788,5170
+POI_00545,Cimanggis Office Tower 1,Office Tower,CITY_09_D2,Depok,-6.401452,106.809755,3793
+POI_00546,Cimanggis Office Tower 2,Office Tower,CITY_09_D2,Depok,-6.402952,106.821829,10414
+POI_00547,Cimanggis Office Tower 3,Office Tower,CITY_09_D2,Depok,-6.404069,106.812877,5368
+POI_00548,Cimanggis Office Tower 4,Office Tower,CITY_09_D2,Depok,-6.410036,106.807775,6397
+POI_00549,Cimanggis Office Tower 5,Office Tower,CITY_09_D2,Depok,-6.411068,106.806604,3726
+POI_00550,Cimanggis University 1,University,CITY_09_D2,Depok,-6.407317,106.80069,4687
+POI_00551,Cimanggis University 2,University,CITY_09_D2,Depok,-6.403891,106.810952,8472
+POI_00552,Cimanggis Mall 1,Mall,CITY_09_D2,Depok,-6.399848,106.814576,32946
+POI_00553,Cimanggis Mall 2,Mall,CITY_09_D2,Depok,-6.404949,106.805092,19734
+POI_00554,Cimanggis Mall 3,Mall,CITY_09_D2,Depok,-6.408535,106.809983,22099
+POI_00555,Cimanggis Transit Station 1,Transit Station,CITY_09_D2,Depok,-6.403566,106.80904,17195
+POI_00556,Cimanggis Transit Station 2,Transit Station,CITY_09_D2,Depok,-6.405312,106.806444,34189
+POI_00557,Cimanggis Residential Cluster 1,Residential Cluster,CITY_09_D2,Depok,-6.414391,106.794619,9967
+POI_00558,Cimanggis Residential Cluster 2,Residential Cluster,CITY_09_D2,Depok,-6.410136,106.80732,2513
+POI_00559,Cimanggis Residential Cluster 3,Residential Cluster,CITY_09_D2,Depok,-6.414301,106.805394,2636
+POI_00560,Cimanggis Hospital 1,Hospital,CITY_09_D2,Depok,-6.409349,106.806619,3020
+POI_00561,Sawangan Office Tower 1,Office Tower,CITY_09_D3,Depok,-6.382239,106.797514,5538
+POI_00562,Sawangan Office Tower 2,Office Tower,CITY_09_D3,Depok,-6.395287,106.797998,13127
+POI_00563,Sawangan Office Tower 3,Office Tower,CITY_09_D3,Depok,-6.386415,106.795545,3871
+POI_00564,Sawangan Office Tower 4,Office Tower,CITY_09_D3,Depok,-6.386398,106.788332,11907
+POI_00565,Sawangan Office Tower 5,Office Tower,CITY_09_D3,Depok,-6.384424,106.798007,2503
+POI_00566,Sawangan University 1,University,CITY_09_D3,Depok,-6.387408,106.80224,13162
+POI_00567,Sawangan University 2,University,CITY_09_D3,Depok,-6.387812,106.809897,9141
+POI_00568,Sawangan Mall 1,Mall,CITY_09_D3,Depok,-6.371552,106.800093,26818
+POI_00569,Sawangan Mall 2,Mall,CITY_09_D3,Depok,-6.383747,106.795082,12824
+POI_00570,Sawangan Mall 3,Mall,CITY_09_D3,Depok,-6.384228,106.799917,25356
+POI_00571,Sawangan Transit Station 1,Transit Station,CITY_09_D3,Depok,-6.386068,106.800668,21679
+POI_00572,Sawangan Transit Station 2,Transit Station,CITY_09_D3,Depok,-6.382563,106.796167,18697
+POI_00573,Sawangan Residential Cluster 1,Residential Cluster,CITY_09_D3,Depok,-6.400374,106.798255,4869
+POI_00574,Sawangan Residential Cluster 2,Residential Cluster,CITY_09_D3,Depok,-6.384763,106.796985,5909
+POI_00575,Sawangan Residential Cluster 3,Residential Cluster,CITY_09_D3,Depok,-6.384881,106.813366,4489
+POI_00576,Sawangan Hospital 1,Hospital,CITY_09_D3,Depok,-6.383377,106.797305,4085
+POI_00577,Pancoran Mas Office Tower 1,Office Tower,CITY_09_D4,Depok,-6.416934,106.814564,9024
+POI_00578,Pancoran Mas Office Tower 2,Office Tower,CITY_09_D4,Depok,-6.39875,106.827074,4666
+POI_00579,Pancoran Mas Office Tower 3,Office Tower,CITY_09_D4,Depok,-6.39716,106.823278,12376
+POI_00580,Pancoran Mas Office Tower 4,Office Tower,CITY_09_D4,Depok,-6.403952,106.827409,8945
+POI_00581,Pancoran Mas Office Tower 5,Office Tower,CITY_09_D4,Depok,-6.394747,106.824485,7831
+POI_00582,Pancoran Mas University 1,University,CITY_09_D4,Depok,-6.404046,106.824911,8847
+POI_00583,Pancoran Mas University 2,University,CITY_09_D4,Depok,-6.397223,106.815489,5651
+POI_00584,Pancoran Mas Mall 1,Mall,CITY_09_D4,Depok,-6.4037,106.825532,38237
+POI_00585,Pancoran Mas Mall 2,Mall,CITY_09_D4,Depok,-6.412389,106.831869,11907
+POI_00586,Pancoran Mas Mall 3,Mall,CITY_09_D4,Depok,-6.412868,106.826109,23067
+POI_00587,Pancoran Mas Transit Station 1,Transit Station,CITY_09_D4,Depok,-6.399003,106.823461,24161
+POI_00588,Pancoran Mas Transit Station 2,Transit Station,CITY_09_D4,Depok,-6.398374,106.824718,26636
+POI_00589,Pancoran Mas Residential Cluster 1,Residential Cluster,CITY_09_D4,Depok,-6.404453,106.82438,6108
+POI_00590,Pancoran Mas Residential Cluster 2,Residential Cluster,CITY_09_D4,Depok,-6.394356,106.83194,5230
+POI_00591,Pancoran Mas Residential Cluster 3,Residential Cluster,CITY_09_D4,Depok,-6.399737,106.814816,6061
+POI_00592,Pancoran Mas Hospital 1,Hospital,CITY_09_D4,Depok,-6.404576,106.826576,4520
+POI_00593,Semarang Tengah Office Tower 1,Office Tower,CITY_10_D1,Semarang,-6.974055,110.43505,5184
+POI_00594,Semarang Tengah Office Tower 2,Office Tower,CITY_10_D1,Semarang,-6.983498,110.42668,3192
+POI_00595,Semarang Tengah Office Tower 3,Office Tower,CITY_10_D1,Semarang,-6.96443,110.429136,11732
+POI_00596,Semarang Tengah Office Tower 4,Office Tower,CITY_10_D1,Semarang,-6.972604,110.434658,11717
+POI_00597,Semarang Tengah Office Tower 5,Office Tower,CITY_10_D1,Semarang,-6.979231,110.433514,2971
+POI_00598,Semarang Tengah University 1,University,CITY_10_D1,Semarang,-6.985238,110.428361,8776
+POI_00599,Semarang Tengah University 2,University,CITY_10_D1,Semarang,-6.982534,110.435354,12207
+POI_00600,Semarang Tengah Mall 1,Mall,CITY_10_D1,Semarang,-6.976983,110.424566,11357
+POI_00601,Semarang Tengah Mall 2,Mall,CITY_10_D1,Semarang,-6.977178,110.438281,14466
+POI_00602,Semarang Tengah Mall 3,Mall,CITY_10_D1,Semarang,-6.976543,110.430571,17495
+POI_00603,Semarang Tengah Transit Station 1,Transit Station,CITY_10_D1,Semarang,-6.982356,110.441504,28034
+POI_00604,Semarang Tengah Transit Station 2,Transit Station,CITY_10_D1,Semarang,-6.977865,110.438724,13844
+POI_00605,Semarang Tengah Residential Cluster 1,Residential Cluster,CITY_10_D1,Semarang,-6.978339,110.434909,3334
+POI_00606,Semarang Tengah Residential Cluster 2,Residential Cluster,CITY_10_D1,Semarang,-6.981971,110.43899,4934
+POI_00607,Semarang Tengah Residential Cluster 3,Residential Cluster,CITY_10_D1,Semarang,-6.967229,110.454665,6477
+POI_00608,Semarang Tengah Hospital 1,Hospital,CITY_10_D1,Semarang,-6.98174,110.429943,7406
+POI_00609,Candisari Office Tower 1,Office Tower,CITY_10_D2,Semarang,-6.961416,110.429133,10421
+POI_00610,Candisari Office Tower 2,Office Tower,CITY_10_D2,Semarang,-6.946497,110.421423,5254
+POI_00611,Candisari Office Tower 3,Office Tower,CITY_10_D2,Semarang,-6.95291,110.430369,8892
+POI_00612,Candisari Office Tower 4,Office Tower,CITY_10_D2,Semarang,-6.942671,110.431741,4697
+POI_00613,Candisari Office Tower 5,Office Tower,CITY_10_D2,Semarang,-6.956835,110.430022,12603
+POI_00614,Candisari University 1,University,CITY_10_D2,Semarang,-6.939344,110.424291,6180
+POI_00615,Candisari University 2,University,CITY_10_D2,Semarang,-6.952937,110.423489,8416
+POI_00616,Candisari Mall 1,Mall,CITY_10_D2,Semarang,-6.96252,110.424883,23112
+POI_00617,Candisari Mall 2,Mall,CITY_10_D2,Semarang,-6.942668,110.436321,18701
+POI_00618,Candisari Mall 3,Mall,CITY_10_D2,Semarang,-6.938846,110.445808,27517
+POI_00619,Candisari Transit Station 1,Transit Station,CITY_10_D2,Semarang,-6.931785,110.427949,16956
+POI_00620,Candisari Transit Station 2,Transit Station,CITY_10_D2,Semarang,-6.946946,110.422838,31673
+POI_00621,Candisari Residential Cluster 1,Residential Cluster,CITY_10_D2,Semarang,-6.946576,110.433347,3182
+POI_00622,Candisari Residential Cluster 2,Residential Cluster,CITY_10_D2,Semarang,-6.949344,110.435031,3610
+POI_00623,Candisari Residential Cluster 3,Residential Cluster,CITY_10_D2,Semarang,-6.941001,110.43455,4885
+POI_00624,Candisari Hospital 1,Hospital,CITY_10_D2,Semarang,-6.945195,110.430952,4137
+POI_00625,Banyumanik Office Tower 1,Office Tower,CITY_10_D3,Semarang,-6.953695,110.413073,3881
+POI_00626,Banyumanik Office Tower 2,Office Tower,CITY_10_D3,Semarang,-6.969003,110.390575,7236
+POI_00627,Banyumanik Office Tower 3,Office Tower,CITY_10_D3,Semarang,-6.952479,110.399576,7102
+POI_00628,Banyumanik Office Tower 4,Office Tower,CITY_10_D3,Semarang,-6.956692,110.399627,5997
+POI_00629,Banyumanik Office Tower 5,Office Tower,CITY_10_D3,Semarang,-6.957766,110.397569,7182
+POI_00630,Banyumanik University 1,University,CITY_10_D3,Semarang,-6.951024,110.395848,4702
+POI_00631,Banyumanik University 2,University,CITY_10_D3,Semarang,-6.960803,110.400443,8889
+POI_00632,Banyumanik Mall 1,Mall,CITY_10_D3,Semarang,-6.956883,110.398958,31470
+POI_00633,Banyumanik Mall 2,Mall,CITY_10_D3,Semarang,-6.957182,110.399708,21756
+POI_00634,Banyumanik Mall 3,Mall,CITY_10_D3,Semarang,-6.956896,110.403189,20612
+POI_00635,Banyumanik Transit Station 1,Transit Station,CITY_10_D3,Semarang,-6.957054,110.397571,12557
+POI_00636,Banyumanik Transit Station 2,Transit Station,CITY_10_D3,Semarang,-6.956517,110.400298,14123
+POI_00637,Banyumanik Residential Cluster 1,Residential Cluster,CITY_10_D3,Semarang,-6.960712,110.402336,2426
+POI_00638,Banyumanik Residential Cluster 2,Residential Cluster,CITY_10_D3,Semarang,-6.957195,110.404848,4007
+POI_00639,Banyumanik Residential Cluster 3,Residential Cluster,CITY_10_D3,Semarang,-6.956894,110.400756,3978
+POI_00640,Banyumanik Hospital 1,Hospital,CITY_10_D3,Semarang,-6.953901,110.403524,5946
+POI_00641,Gajahmungkur Office Tower 1,Office Tower,CITY_10_D4,Semarang,-6.967479,110.374877,3682
+POI_00642,Gajahmungkur Office Tower 2,Office Tower,CITY_10_D4,Semarang,-6.946348,110.38183,7202
+POI_00643,Gajahmungkur Office Tower 3,Office Tower,CITY_10_D4,Semarang,-6.969213,110.375276,5445
+POI_00644,Gajahmungkur Office Tower 4,Office Tower,CITY_10_D4,Semarang,-6.964105,110.384708,6943
+POI_00645,Gajahmungkur Office Tower 5,Office Tower,CITY_10_D4,Semarang,-6.963586,110.386894,9883
+POI_00646,Gajahmungkur University 1,University,CITY_10_D4,Semarang,-6.969305,110.384642,11720
+POI_00647,Gajahmungkur University 2,University,CITY_10_D4,Semarang,-6.954481,110.37665,5970
+POI_00648,Gajahmungkur Mall 1,Mall,CITY_10_D4,Semarang,-6.960974,110.380521,35037
+POI_00649,Gajahmungkur Mall 2,Mall,CITY_10_D4,Semarang,-6.966358,110.385922,17168
+POI_00650,Gajahmungkur Mall 3,Mall,CITY_10_D4,Semarang,-6.964752,110.395412,42769
+POI_00651,Gajahmungkur Transit Station 1,Transit Station,CITY_10_D4,Semarang,-6.964194,110.38595,27812
+POI_00652,Gajahmungkur Transit Station 2,Transit Station,CITY_10_D4,Semarang,-6.97286,110.399335,17307
+POI_00653,Gajahmungkur Residential Cluster 1,Residential Cluster,CITY_10_D4,Semarang,-6.978644,110.383061,8013
+POI_00654,Gajahmungkur Residential Cluster 2,Residential Cluster,CITY_10_D4,Semarang,-6.96453,110.387344,3555
+POI_00655,Gajahmungkur Residential Cluster 3,Residential Cluster,CITY_10_D4,Semarang,-6.960108,110.389172,3972
+POI_00656,Gajahmungkur Hospital 1,Hospital,CITY_10_D4,Semarang,-6.96787,110.387169,4286
+POI_00657,Gondokusuman Office Tower 1,Office Tower,CITY_11_D1,Yogyakarta,-7.786402,110.384294,3966
+POI_00658,Gondokusuman Office Tower 2,Office Tower,CITY_11_D1,Yogyakarta,-7.787056,110.379395,2800
+POI_00659,Gondokusuman Office Tower 3,Office Tower,CITY_11_D1,Yogyakarta,-7.784432,110.378149,7745
+POI_00660,Gondokusuman Office Tower 4,Office Tower,CITY_11_D1,Yogyakarta,-7.786126,110.380095,9986
+POI_00661,Gondokusuman Office Tower 5,Office Tower,CITY_11_D1,Yogyakarta,-7.787695,110.380413,5501
+POI_00662,Gondokusuman University 1,University,CITY_11_D1,Yogyakarta,-7.783858,110.378205,8760
+POI_00663,Gondokusuman University 2,University,CITY_11_D1,Yogyakarta,-7.788249,110.380313,11243
+POI_00664,Gondokusuman Mall 1,Mall,CITY_11_D1,Yogyakarta,-7.793711,110.38039,38113
+POI_00665,Gondokusuman Mall 2,Mall,CITY_11_D1,Yogyakarta,-7.793689,110.393033,49881
+POI_00666,Gondokusuman Mall 3,Mall,CITY_11_D1,Yogyakarta,-7.801206,110.381474,20220
+POI_00667,Gondokusuman Transit Station 1,Transit Station,CITY_11_D1,Yogyakarta,-7.786873,110.381942,17946
+POI_00668,Gondokusuman Transit Station 2,Transit Station,CITY_11_D1,Yogyakarta,-7.792474,110.372875,16006
+POI_00669,Gondokusuman Residential Cluster 1,Residential Cluster,CITY_11_D1,Yogyakarta,-7.784221,110.379195,4907
+POI_00670,Gondokusuman Residential Cluster 2,Residential Cluster,CITY_11_D1,Yogyakarta,-7.786841,110.378177,4893
+POI_00671,Gondokusuman Residential Cluster 3,Residential Cluster,CITY_11_D1,Yogyakarta,-7.787126,110.379256,4200
+POI_00672,Gondokusuman Hospital 1,Hospital,CITY_11_D1,Yogyakarta,-7.791252,110.384663,6136
+POI_00673,Umbulharjo Office Tower 1,Office Tower,CITY_11_D2,Yogyakarta,-7.795902,110.350446,16036
+POI_00674,Umbulharjo Office Tower 2,Office Tower,CITY_11_D2,Yogyakarta,-7.797256,110.348866,10171
+POI_00675,Umbulharjo Office Tower 3,Office Tower,CITY_11_D2,Yogyakarta,-7.776858,110.351217,5703
+POI_00676,Umbulharjo Office Tower 4,Office Tower,CITY_11_D2,Yogyakarta,-7.79719,110.358406,5764
+POI_00677,Umbulharjo Office Tower 5,Office Tower,CITY_11_D2,Yogyakarta,-7.797016,110.345211,7537
+POI_00678,Umbulharjo University 1,University,CITY_11_D2,Yogyakarta,-7.796265,110.351353,7094
+POI_00679,Umbulharjo University 2,University,CITY_11_D2,Yogyakarta,-7.79375,110.354433,6076
+POI_00680,Umbulharjo Mall 1,Mall,CITY_11_D2,Yogyakarta,-7.793102,110.359195,39129
+POI_00681,Umbulharjo Mall 2,Mall,CITY_11_D2,Yogyakarta,-7.795448,110.352969,26228
+POI_00682,Umbulharjo Mall 3,Mall,CITY_11_D2,Yogyakarta,-7.801763,110.348427,17496
+POI_00683,Umbulharjo Transit Station 1,Transit Station,CITY_11_D2,Yogyakarta,-7.798881,110.355892,25160
+POI_00684,Umbulharjo Transit Station 2,Transit Station,CITY_11_D2,Yogyakarta,-7.798761,110.347311,16357
+POI_00685,Umbulharjo Residential Cluster 1,Residential Cluster,CITY_11_D2,Yogyakarta,-7.789484,110.3563,6771
+POI_00686,Umbulharjo Residential Cluster 2,Residential Cluster,CITY_11_D2,Yogyakarta,-7.795331,110.347115,6626
+POI_00687,Umbulharjo Residential Cluster 3,Residential Cluster,CITY_11_D2,Yogyakarta,-7.786737,110.362541,2994
+POI_00688,Umbulharjo Hospital 1,Hospital,CITY_11_D2,Yogyakarta,-7.789513,110.349276,3193
+POI_00689,Mergangsan Office Tower 1,Office Tower,CITY_11_D3,Yogyakarta,-7.785712,110.359127,8128
+POI_00690,Mergangsan Office Tower 2,Office Tower,CITY_11_D3,Yogyakarta,-7.788895,110.362165,15497
+POI_00691,Mergangsan Office Tower 3,Office Tower,CITY_11_D3,Yogyakarta,-7.802194,110.350702,4442
+POI_00692,Mergangsan Office Tower 4,Office Tower,CITY_11_D3,Yogyakarta,-7.789769,110.359207,6318
+POI_00693,Mergangsan Office Tower 5,Office Tower,CITY_11_D3,Yogyakarta,-7.77482,110.352206,8263
+POI_00694,Mergangsan University 1,University,CITY_11_D3,Yogyakarta,-7.782373,110.357003,5433
+POI_00695,Mergangsan University 2,University,CITY_11_D3,Yogyakarta,-7.78822,110.359168,3856
+POI_00696,Mergangsan Mall 1,Mall,CITY_11_D3,Yogyakarta,-7.789514,110.3592,24684
+POI_00697,Mergangsan Mall 2,Mall,CITY_11_D3,Yogyakarta,-7.786001,110.356725,25065
+POI_00698,Mergangsan Mall 3,Mall,CITY_11_D3,Yogyakarta,-7.786232,110.355635,41454
+POI_00699,Mergangsan Transit Station 1,Transit Station,CITY_11_D3,Yogyakarta,-7.790139,110.355521,26240
+POI_00700,Mergangsan Transit Station 2,Transit Station,CITY_11_D3,Yogyakarta,-7.788353,110.362513,30216
+POI_00701,Mergangsan Residential Cluster 1,Residential Cluster,CITY_11_D3,Yogyakarta,-7.790505,110.369712,8195
+POI_00702,Mergangsan Residential Cluster 2,Residential Cluster,CITY_11_D3,Yogyakarta,-7.789671,110.359103,4042
+POI_00703,Mergangsan Residential Cluster 3,Residential Cluster,CITY_11_D3,Yogyakarta,-7.789883,110.353916,2221
+POI_00704,Mergangsan Hospital 1,Hospital,CITY_11_D3,Yogyakarta,-7.79416,110.354886,5086
+POI_00705,Jetis Office Tower 1,Office Tower,CITY_11_D4,Yogyakarta,-7.821026,110.380721,15904
+POI_00706,Jetis Office Tower 2,Office Tower,CITY_11_D4,Yogyakarta,-7.822567,110.382797,4311
+POI_00707,Jetis Office Tower 3,Office Tower,CITY_11_D4,Yogyakarta,-7.808472,110.378302,4585
+POI_00708,Jetis Office Tower 4,Office Tower,CITY_11_D4,Yogyakarta,-7.819219,110.385422,6399
+POI_00709,Jetis Office Tower 5,Office Tower,CITY_11_D4,Yogyakarta,-7.817035,110.385928,10848
+POI_00710,Jetis University 1,University,CITY_11_D4,Yogyakarta,-7.830353,110.382202,11813
+POI_00711,Jetis University 2,University,CITY_11_D4,Yogyakarta,-7.814582,110.383618,4303
+POI_00712,Jetis Mall 1,Mall,CITY_11_D4,Yogyakarta,-7.819276,110.385586,42884
+POI_00713,Jetis Mall 2,Mall,CITY_11_D4,Yogyakarta,-7.819612,110.38581,35244
+POI_00714,Jetis Mall 3,Mall,CITY_11_D4,Yogyakarta,-7.818658,110.376753,16764
+POI_00715,Jetis Transit Station 1,Transit Station,CITY_11_D4,Yogyakarta,-7.819668,110.383162,33990
+POI_00716,Jetis Transit Station 2,Transit Station,CITY_11_D4,Yogyakarta,-7.830956,110.400715,16092
+POI_00717,Jetis Residential Cluster 1,Residential Cluster,CITY_11_D4,Yogyakarta,-7.818343,110.383965,4870
+POI_00718,Jetis Residential Cluster 2,Residential Cluster,CITY_11_D4,Yogyakarta,-7.814578,110.383998,3693
+POI_00719,Jetis Residential Cluster 3,Residential Cluster,CITY_11_D4,Yogyakarta,-7.819309,110.38144,4753
+POI_00720,Jetis Hospital 1,Hospital,CITY_11_D4,Yogyakarta,-7.817295,110.389858,7068
+POI_00721,Kuta Office Tower 1,Office Tower,CITY_12_D1,Bali Badung,-8.614563,115.175918,2999
+POI_00722,Kuta Office Tower 2,Office Tower,CITY_12_D1,Bali Badung,-8.618831,115.174391,10321
+POI_00723,Kuta Office Tower 3,Office Tower,CITY_12_D1,Bali Badung,-8.615923,115.176902,7671
+POI_00724,Kuta Office Tower 4,Office Tower,CITY_12_D1,Bali Badung,-8.632435,115.187085,9783
+POI_00725,Kuta Office Tower 5,Office Tower,CITY_12_D1,Bali Badung,-8.617248,115.1778,10473
+POI_00726,Kuta University 1,University,CITY_12_D1,Bali Badung,-8.622218,115.174003,12912
+POI_00727,Kuta University 2,University,CITY_12_D1,Bali Badung,-8.610292,115.19372,6002
+POI_00728,Kuta Mall 1,Mall,CITY_12_D1,Bali Badung,-8.617457,115.176609,22112
+POI_00729,Kuta Mall 2,Mall,CITY_12_D1,Bali Badung,-8.63667,115.188179,22609
+POI_00730,Kuta Mall 3,Mall,CITY_12_D1,Bali Badung,-8.616984,115.170878,58346
+POI_00731,Kuta Transit Station 1,Transit Station,CITY_12_D1,Bali Badung,-8.618822,115.163929,24454
+POI_00732,Kuta Transit Station 2,Transit Station,CITY_12_D1,Bali Badung,-8.620766,115.175595,38082
+POI_00733,Kuta Residential Cluster 1,Residential Cluster,CITY_12_D1,Bali Badung,-8.621424,115.177552,4658
+POI_00734,Kuta Residential Cluster 2,Residential Cluster,CITY_12_D1,Bali Badung,-8.615493,115.17421,9835
+POI_00735,Kuta Residential Cluster 3,Residential Cluster,CITY_12_D1,Bali Badung,-8.619237,115.171087,6654
+POI_00736,Kuta Hospital 1,Hospital,CITY_12_D1,Bali Badung,-8.618689,115.174454,1894
+POI_00737,Kuta Utara Office Tower 1,Office Tower,CITY_12_D2,Bali Badung,-8.620854,115.19931,4624
+POI_00738,Kuta Utara Office Tower 2,Office Tower,CITY_12_D2,Bali Badung,-8.624801,115.194024,6545
+POI_00739,Kuta Utara Office Tower 3,Office Tower,CITY_12_D2,Bali Badung,-8.626716,115.194519,20069
+POI_00740,Kuta Utara Office Tower 4,Office Tower,CITY_12_D2,Bali Badung,-8.62454,115.202101,9298
+POI_00741,Kuta Utara Office Tower 5,Office Tower,CITY_12_D2,Bali Badung,-8.627764,115.192556,2916
+POI_00742,Kuta Utara University 1,University,CITY_12_D2,Bali Badung,-8.626464,115.20048,5497
+POI_00743,Kuta Utara University 2,University,CITY_12_D2,Bali Badung,-8.621292,115.193587,14776
+POI_00744,Kuta Utara Mall 1,Mall,CITY_12_D2,Bali Badung,-8.628723,115.188847,34497
+POI_00745,Kuta Utara Mall 2,Mall,CITY_12_D2,Bali Badung,-8.628526,115.193889,16746
+POI_00746,Kuta Utara Mall 3,Mall,CITY_12_D2,Bali Badung,-8.625696,115.193878,30625
+POI_00747,Kuta Utara Transit Station 1,Transit Station,CITY_12_D2,Bali Badung,-8.615698,115.187682,41274
+POI_00748,Kuta Utara Transit Station 2,Transit Station,CITY_12_D2,Bali Badung,-8.627374,115.196701,26692
+POI_00749,Kuta Utara Residential Cluster 1,Residential Cluster,CITY_12_D2,Bali Badung,-8.625943,115.181793,6296
+POI_00750,Kuta Utara Residential Cluster 2,Residential Cluster,CITY_12_D2,Bali Badung,-8.62816,115.186743,5516
+POI_00751,Kuta Utara Residential Cluster 3,Residential Cluster,CITY_12_D2,Bali Badung,-8.625555,115.195246,3843
+POI_00752,Kuta Utara Hospital 1,Hospital,CITY_12_D2,Bali Badung,-8.625266,115.196236,1852
+POI_00753,Kuta Selatan Office Tower 1,Office Tower,CITY_12_D3,Bali Badung,-8.642139,115.199127,9100
+POI_00754,Kuta Selatan Office Tower 2,Office Tower,CITY_12_D3,Bali Badung,-8.642083,115.195401,8722
+POI_00755,Kuta Selatan Office Tower 3,Office Tower,CITY_12_D3,Bali Badung,-8.643411,115.211703,8668
+POI_00756,Kuta Selatan Office Tower 4,Office Tower,CITY_12_D3,Bali Badung,-8.639772,115.198684,3028
+POI_00757,Kuta Selatan Office Tower 5,Office Tower,CITY_12_D3,Bali Badung,-8.628485,115.206269,7506
+POI_00758,Kuta Selatan University 1,University,CITY_12_D3,Bali Badung,-8.63881,115.189604,6790
+POI_00759,Kuta Selatan University 2,University,CITY_12_D3,Bali Badung,-8.636945,115.19468,10254
+POI_00760,Kuta Selatan Mall 1,Mall,CITY_12_D3,Bali Badung,-8.646579,115.194616,30105
+POI_00761,Kuta Selatan Mall 2,Mall,CITY_12_D3,Bali Badung,-8.646739,115.200796,13918
+POI_00762,Kuta Selatan Mall 3,Mall,CITY_12_D3,Bali Badung,-8.637057,115.198604,10416
+POI_00763,Kuta Selatan Transit Station 1,Transit Station,CITY_12_D3,Bali Badung,-8.646532,115.195847,41368
+POI_00764,Kuta Selatan Transit Station 2,Transit Station,CITY_12_D3,Bali Badung,-8.628362,115.201106,34337
+POI_00765,Kuta Selatan Residential Cluster 1,Residential Cluster,CITY_12_D3,Bali Badung,-8.643274,115.193952,3124
+POI_00766,Kuta Selatan Residential Cluster 2,Residential Cluster,CITY_12_D3,Bali Badung,-8.633635,115.181068,1911
+POI_00767,Kuta Selatan Residential Cluster 3,Residential Cluster,CITY_12_D3,Bali Badung,-8.641475,115.186447,3380
+POI_00768,Kuta Selatan Hospital 1,Hospital,CITY_12_D3,Bali Badung,-8.63269,115.204798,11415
+POI_00769,Mengwi Office Tower 1,Office Tower,CITY_12_D4,Bali Badung,-8.651571,115.202079,4414
+POI_00770,Mengwi Office Tower 2,Office Tower,CITY_12_D4,Bali Badung,-8.655408,115.193989,4522
+POI_00771,Mengwi Office Tower 3,Office Tower,CITY_12_D4,Bali Badung,-8.647978,115.205979,4477
+POI_00772,Mengwi Office Tower 4,Office Tower,CITY_12_D4,Bali Badung,-8.652054,115.188814,6298
+POI_00773,Mengwi Office Tower 5,Office Tower,CITY_12_D4,Bali Badung,-8.659835,115.198942,4497
+POI_00774,Mengwi University 1,University,CITY_12_D4,Bali Badung,-8.650251,115.197059,22958
+POI_00775,Mengwi University 2,University,CITY_12_D4,Bali Badung,-8.655942,115.199125,11021
+POI_00776,Mengwi Mall 1,Mall,CITY_12_D4,Bali Badung,-8.660559,115.197551,22896
+POI_00777,Mengwi Mall 2,Mall,CITY_12_D4,Bali Badung,-8.659197,115.201762,22828
+POI_00778,Mengwi Mall 3,Mall,CITY_12_D4,Bali Badung,-8.663053,115.190364,21123
+POI_00779,Mengwi Transit Station 1,Transit Station,CITY_12_D4,Bali Badung,-8.646087,115.206926,13309
+POI_00780,Mengwi Transit Station 2,Transit Station,CITY_12_D4,Bali Badung,-8.657807,115.196119,13690
+POI_00781,Mengwi Residential Cluster 1,Residential Cluster,CITY_12_D4,Bali Badung,-8.658625,115.189426,3373
+POI_00782,Mengwi Residential Cluster 2,Residential Cluster,CITY_12_D4,Bali Badung,-8.658818,115.190473,4049
+POI_00783,Mengwi Residential Cluster 3,Residential Cluster,CITY_12_D4,Bali Badung,-8.658579,115.198481,4587
+POI_00784,Mengwi Hospital 1,Hospital,CITY_12_D4,Bali Badung,-8.66098,115.201536,4987
+POI_00785,Klojen Office Tower 1,Office Tower,CITY_13_D1,Malang,-7.980729,112.630663,4663
+POI_00786,Klojen Office Tower 2,Office Tower,CITY_13_D1,Malang,-7.982543,112.61597,6373
+POI_00787,Klojen Office Tower 3,Office Tower,CITY_13_D1,Malang,-7.982311,112.61504,9313
+POI_00788,Klojen Office Tower 4,Office Tower,CITY_13_D1,Malang,-7.982242,112.615903,9192
+POI_00789,Klojen Office Tower 5,Office Tower,CITY_13_D1,Malang,-7.976738,112.618824,4891
+POI_00790,Klojen University 1,University,CITY_13_D1,Malang,-7.987095,112.59853,7716
+POI_00791,Klojen University 2,University,CITY_13_D1,Malang,-7.983636,112.620168,13263
+POI_00792,Klojen Mall 1,Mall,CITY_13_D1,Malang,-7.98194,112.61792,40274
+POI_00793,Klojen Mall 2,Mall,CITY_13_D1,Malang,-7.980339,112.625666,38861
+POI_00794,Klojen Mall 3,Mall,CITY_13_D1,Malang,-7.985178,112.615853,38642
+POI_00795,Klojen Transit Station 1,Transit Station,CITY_13_D1,Malang,-7.979282,112.612013,43595
+POI_00796,Klojen Transit Station 2,Transit Station,CITY_13_D1,Malang,-7.987677,112.612219,23144
+POI_00797,Klojen Residential Cluster 1,Residential Cluster,CITY_13_D1,Malang,-7.982289,112.615829,7146
+POI_00798,Klojen Residential Cluster 2,Residential Cluster,CITY_13_D1,Malang,-7.986162,112.602501,3691
+POI_00799,Klojen Residential Cluster 3,Residential Cluster,CITY_13_D1,Malang,-7.983606,112.617017,1958
+POI_00800,Klojen Hospital 1,Hospital,CITY_13_D1,Malang,-7.979681,112.620848,4779
+POI_00801,Lowokwaru Office Tower 1,Office Tower,CITY_13_D2,Malang,-7.96007,112.613841,7316
+POI_00802,Lowokwaru Office Tower 2,Office Tower,CITY_13_D2,Malang,-7.962292,112.619178,10079
+POI_00803,Lowokwaru Office Tower 3,Office Tower,CITY_13_D2,Malang,-7.968247,112.629384,8482
+POI_00804,Lowokwaru Office Tower 4,Office Tower,CITY_13_D2,Malang,-7.962787,112.621727,7809
+POI_00805,Lowokwaru Office Tower 5,Office Tower,CITY_13_D2,Malang,-7.966973,112.614871,6514
+POI_00806,Lowokwaru University 1,University,CITY_13_D2,Malang,-7.960905,112.620556,18183
+POI_00807,Lowokwaru University 2,University,CITY_13_D2,Malang,-7.957361,112.618506,4139
+POI_00808,Lowokwaru Mall 1,Mall,CITY_13_D2,Malang,-7.963713,112.620739,11684
+POI_00809,Lowokwaru Mall 2,Mall,CITY_13_D2,Malang,-7.964468,112.618504,11618
+POI_00810,Lowokwaru Mall 3,Mall,CITY_13_D2,Malang,-7.950352,112.621855,48827
+POI_00811,Lowokwaru Transit Station 1,Transit Station,CITY_13_D2,Malang,-7.961622,112.618367,37468
+POI_00812,Lowokwaru Transit Station 2,Transit Station,CITY_13_D2,Malang,-7.952261,112.619315,15114
+POI_00813,Lowokwaru Residential Cluster 1,Residential Cluster,CITY_13_D2,Malang,-7.959731,112.614889,1951
+POI_00814,Lowokwaru Residential Cluster 2,Residential Cluster,CITY_13_D2,Malang,-7.943439,112.613608,5197
+POI_00815,Lowokwaru Residential Cluster 3,Residential Cluster,CITY_13_D2,Malang,-7.961373,112.616567,3907
+POI_00816,Lowokwaru Hospital 1,Hospital,CITY_13_D2,Malang,-7.962278,112.611457,3342
+POI_00817,Blimbing Office Tower 1,Office Tower,CITY_13_D3,Malang,-7.940845,112.639389,7600
+POI_00818,Blimbing Office Tower 2,Office Tower,CITY_13_D3,Malang,-7.946294,112.644826,6857
+POI_00819,Blimbing Office Tower 3,Office Tower,CITY_13_D3,Malang,-7.94265,112.639211,8515
+POI_00820,Blimbing Office Tower 4,Office Tower,CITY_13_D3,Malang,-7.954605,112.649565,8005
+POI_00821,Blimbing Office Tower 5,Office Tower,CITY_13_D3,Malang,-7.952204,112.644669,4773
+POI_00822,Blimbing University 1,University,CITY_13_D3,Malang,-7.941187,112.641637,3768
+POI_00823,Blimbing University 2,University,CITY_13_D3,Malang,-7.937418,112.643029,14250
+POI_00824,Blimbing Mall 1,Mall,CITY_13_D3,Malang,-7.939144,112.638207,43113
+POI_00825,Blimbing Mall 2,Mall,CITY_13_D3,Malang,-7.939726,112.631443,24869
+POI_00826,Blimbing Mall 3,Mall,CITY_13_D3,Malang,-7.935531,112.649365,13805
+POI_00827,Blimbing Transit Station 1,Transit Station,CITY_13_D3,Malang,-7.943382,112.63583,18828
+POI_00828,Blimbing Transit Station 2,Transit Station,CITY_13_D3,Malang,-7.939181,112.634081,21959
+POI_00829,Blimbing Residential Cluster 1,Residential Cluster,CITY_13_D3,Malang,-7.939059,112.633337,7808
+POI_00830,Blimbing Residential Cluster 2,Residential Cluster,CITY_13_D3,Malang,-7.935482,112.636509,7442
+POI_00831,Blimbing Residential Cluster 3,Residential Cluster,CITY_13_D3,Malang,-7.936459,112.642106,3781
+POI_00832,Blimbing Hospital 1,Hospital,CITY_13_D3,Malang,-7.952062,112.638724,3544
+POI_00833,Panakkukang Office Tower 1,Office Tower,CITY_14_D1,Makassar,-5.127959,119.432035,10468
+POI_00834,Panakkukang Office Tower 2,Office Tower,CITY_14_D1,Makassar,-5.131951,119.436011,10753
+POI_00835,Panakkukang Office Tower 3,Office Tower,CITY_14_D1,Makassar,-5.127639,119.433768,8653
+POI_00836,Panakkukang Office Tower 4,Office Tower,CITY_14_D1,Makassar,-5.13243,119.430273,6405
+POI_00837,Panakkukang Office Tower 5,Office Tower,CITY_14_D1,Makassar,-5.135189,119.43503,11835
+POI_00838,Panakkukang University 1,University,CITY_14_D1,Makassar,-5.13634,119.442458,6598
+POI_00839,Panakkukang University 2,University,CITY_14_D1,Makassar,-5.143215,119.419952,5308
+POI_00840,Panakkukang Mall 1,Mall,CITY_14_D1,Makassar,-5.126665,119.43207,45009
+POI_00841,Panakkukang Mall 2,Mall,CITY_14_D1,Makassar,-5.127821,119.432092,21282
+POI_00842,Panakkukang Mall 3,Mall,CITY_14_D1,Makassar,-5.127398,119.439761,25034
+POI_00843,Panakkukang Transit Station 1,Transit Station,CITY_14_D1,Makassar,-5.135669,119.434958,16646
+POI_00844,Panakkukang Transit Station 2,Transit Station,CITY_14_D1,Makassar,-5.117867,119.437786,18601
+POI_00845,Panakkukang Residential Cluster 1,Residential Cluster,CITY_14_D1,Makassar,-5.125526,119.434186,3609
+POI_00846,Panakkukang Residential Cluster 2,Residential Cluster,CITY_14_D1,Makassar,-5.127897,119.437389,5305
+POI_00847,Panakkukang Residential Cluster 3,Residential Cluster,CITY_14_D1,Makassar,-5.124723,119.430167,4885
+POI_00848,Panakkukang Hospital 1,Hospital,CITY_14_D1,Makassar,-5.125284,119.433304,9194
+POI_00849,Rappocini Office Tower 1,Office Tower,CITY_14_D2,Makassar,-5.150426,119.425075,9879
+POI_00850,Rappocini Office Tower 2,Office Tower,CITY_14_D2,Makassar,-5.163873,119.426723,7019
+POI_00851,Rappocini Office Tower 3,Office Tower,CITY_14_D2,Makassar,-5.151997,119.422313,11100
+POI_00852,Rappocini Office Tower 4,Office Tower,CITY_14_D2,Makassar,-5.162313,119.42257,4390
+POI_00853,Rappocini Office Tower 5,Office Tower,CITY_14_D2,Makassar,-5.154044,119.426449,11610
+POI_00854,Rappocini University 1,University,CITY_14_D2,Makassar,-5.155856,119.422978,8589
+POI_00855,Rappocini University 2,University,CITY_14_D2,Makassar,-5.157783,119.420245,11417
+POI_00856,Rappocini Mall 1,Mall,CITY_14_D2,Makassar,-5.145805,119.421536,43237
+POI_00857,Rappocini Mall 2,Mall,CITY_14_D2,Makassar,-5.15155,119.422912,31575
+POI_00858,Rappocini Mall 3,Mall,CITY_14_D2,Makassar,-5.152173,119.426708,25710
+POI_00859,Rappocini Transit Station 1,Transit Station,CITY_14_D2,Makassar,-5.155772,119.428618,21377
+POI_00860,Rappocini Transit Station 2,Transit Station,CITY_14_D2,Makassar,-5.151123,119.423557,22629
+POI_00861,Rappocini Residential Cluster 1,Residential Cluster,CITY_14_D2,Makassar,-5.150718,119.424178,6098
+POI_00862,Rappocini Residential Cluster 2,Residential Cluster,CITY_14_D2,Makassar,-5.151169,119.425395,6741
+POI_00863,Rappocini Residential Cluster 3,Residential Cluster,CITY_14_D2,Makassar,-5.150603,119.424562,3183
+POI_00864,Rappocini Hospital 1,Hospital,CITY_14_D2,Makassar,-5.153829,119.417135,4592
+POI_00865,Tamalate Office Tower 1,Office Tower,CITY_14_D3,Makassar,-5.156504,119.451332,5514
+POI_00866,Tamalate Office Tower 2,Office Tower,CITY_14_D3,Makassar,-5.157828,119.43506,4547
+POI_00867,Tamalate Office Tower 3,Office Tower,CITY_14_D3,Makassar,-5.175334,119.439897,11577
+POI_00868,Tamalate Office Tower 4,Office Tower,CITY_14_D3,Makassar,-5.153503,119.442218,4757
+POI_00869,Tamalate Office Tower 5,Office Tower,CITY_14_D3,Makassar,-5.147188,119.437619,10551
+POI_00870,Tamalate University 1,University,CITY_14_D3,Makassar,-5.151984,119.438888,7580
+POI_00871,Tamalate University 2,University,CITY_14_D3,Makassar,-5.161607,119.443318,9476
+POI_00872,Tamalate Mall 1,Mall,CITY_14_D3,Makassar,-5.153153,119.450282,28156
+POI_00873,Tamalate Mall 2,Mall,CITY_14_D3,Makassar,-5.161052,119.429366,34735
+POI_00874,Tamalate Mall 3,Mall,CITY_14_D3,Makassar,-5.149548,119.435914,38131
+POI_00875,Tamalate Transit Station 1,Transit Station,CITY_14_D3,Makassar,-5.159088,119.449971,17793
+POI_00876,Tamalate Transit Station 2,Transit Station,CITY_14_D3,Makassar,-5.154527,119.433052,16686
+POI_00877,Tamalate Residential Cluster 1,Residential Cluster,CITY_14_D3,Makassar,-5.169701,119.436128,5598
+POI_00878,Tamalate Residential Cluster 2,Residential Cluster,CITY_14_D3,Makassar,-5.153659,119.429705,5067
+POI_00879,Tamalate Residential Cluster 3,Residential Cluster,CITY_14_D3,Makassar,-5.156528,119.43652,3391
+POI_00880,Tamalate Hospital 1,Hospital,CITY_14_D3,Makassar,-5.152218,119.434222,4082
+POI_00881,Ilir Barat I Office Tower 1,Office Tower,CITY_15_D1,Palembang,-2.96482,104.760141,10161
+POI_00882,Ilir Barat I Office Tower 2,Office Tower,CITY_15_D1,Palembang,-2.968466,104.759821,6662
+POI_00883,Ilir Barat I Office Tower 3,Office Tower,CITY_15_D1,Palembang,-2.965559,104.75571,5542
+POI_00884,Ilir Barat I Office Tower 4,Office Tower,CITY_15_D1,Palembang,-2.96797,104.75874,4844
+POI_00885,Ilir Barat I Office Tower 5,Office Tower,CITY_15_D1,Palembang,-2.976359,104.754386,8692
+POI_00886,Ilir Barat I University 1,University,CITY_15_D1,Palembang,-2.967694,104.757327,10191
+POI_00887,Ilir Barat I University 2,University,CITY_15_D1,Palembang,-2.96748,104.760785,11943
+POI_00888,Ilir Barat I Mall 1,Mall,CITY_15_D1,Palembang,-2.964503,104.752394,19106
+POI_00889,Ilir Barat I Mall 2,Mall,CITY_15_D1,Palembang,-2.965597,104.772732,12503
+POI_00890,Ilir Barat I Mall 3,Mall,CITY_15_D1,Palembang,-2.967346,104.770168,20874
+POI_00891,Ilir Barat I Transit Station 1,Transit Station,CITY_15_D1,Palembang,-2.965385,104.758594,17791
+POI_00892,Ilir Barat I Transit Station 2,Transit Station,CITY_15_D1,Palembang,-2.968741,104.763451,12271
+POI_00893,Ilir Barat I Residential Cluster 1,Residential Cluster,CITY_15_D1,Palembang,-2.97065,104.753317,5637
+POI_00894,Ilir Barat I Residential Cluster 2,Residential Cluster,CITY_15_D1,Palembang,-2.966372,104.759544,5273
+POI_00895,Ilir Barat I Residential Cluster 3,Residential Cluster,CITY_15_D1,Palembang,-2.968721,104.759176,3841
+POI_00896,Ilir Barat I Hospital 1,Hospital,CITY_15_D1,Palembang,-2.970607,104.77459,2525
+POI_00897,Ilir Timur I Office Tower 1,Office Tower,CITY_15_D2,Palembang,-2.969114,104.787008,8081
+POI_00898,Ilir Timur I Office Tower 2,Office Tower,CITY_15_D2,Palembang,-2.973878,104.781365,7275
+POI_00899,Ilir Timur I Office Tower 3,Office Tower,CITY_15_D2,Palembang,-2.976896,104.785322,6203
+POI_00900,Ilir Timur I Office Tower 4,Office Tower,CITY_15_D2,Palembang,-2.977831,104.789315,8890
+POI_00901,Ilir Timur I Office Tower 5,Office Tower,CITY_15_D2,Palembang,-2.980402,104.777006,5286
+POI_00902,Ilir Timur I University 1,University,CITY_15_D2,Palembang,-2.978217,104.778486,11972
+POI_00903,Ilir Timur I University 2,University,CITY_15_D2,Palembang,-2.967249,104.791224,14008
+POI_00904,Ilir Timur I Mall 1,Mall,CITY_15_D2,Palembang,-2.975446,104.79121,50521
+POI_00905,Ilir Timur I Mall 2,Mall,CITY_15_D2,Palembang,-2.976836,104.785732,23485
+POI_00906,Ilir Timur I Mall 3,Mall,CITY_15_D2,Palembang,-2.972483,104.795767,34653
+POI_00907,Ilir Timur I Transit Station 1,Transit Station,CITY_15_D2,Palembang,-2.989986,104.763645,14265
+POI_00908,Ilir Timur I Transit Station 2,Transit Station,CITY_15_D2,Palembang,-2.979204,104.781285,40608
+POI_00909,Ilir Timur I Residential Cluster 1,Residential Cluster,CITY_15_D2,Palembang,-2.980033,104.788126,1924
+POI_00910,Ilir Timur I Residential Cluster 2,Residential Cluster,CITY_15_D2,Palembang,-2.969013,104.780933,1885
+POI_00911,Ilir Timur I Residential Cluster 3,Residential Cluster,CITY_15_D2,Palembang,-2.975602,104.802824,2371
+POI_00912,Ilir Timur I Hospital 1,Hospital,CITY_15_D2,Palembang,-2.983098,104.787379,5759
+POI_00913,Kemuning Office Tower 1,Office Tower,CITY_15_D3,Palembang,-2.968657,104.762284,7490
+POI_00914,Kemuning Office Tower 2,Office Tower,CITY_15_D3,Palembang,-2.96979,104.76246,5659
+POI_00915,Kemuning Office Tower 3,Office Tower,CITY_15_D3,Palembang,-2.969399,104.755692,7852
+POI_00916,Kemuning Office Tower 4,Office Tower,CITY_15_D3,Palembang,-2.968253,104.767623,5090
+POI_00917,Kemuning Office Tower 5,Office Tower,CITY_15_D3,Palembang,-2.963938,104.768658,6846
+POI_00918,Kemuning University 1,University,CITY_15_D3,Palembang,-2.970407,104.75596,6475
+POI_00919,Kemuning University 2,University,CITY_15_D3,Palembang,-2.972374,104.754876,6536
+POI_00920,Kemuning Mall 1,Mall,CITY_15_D3,Palembang,-2.968925,104.762074,42490
+POI_00921,Kemuning Mall 2,Mall,CITY_15_D3,Palembang,-2.969004,104.752568,33441
+POI_00922,Kemuning Mall 3,Mall,CITY_15_D3,Palembang,-2.983541,104.758468,26891
+POI_00923,Kemuning Transit Station 1,Transit Station,CITY_15_D3,Palembang,-2.970558,104.760082,47946
+POI_00924,Kemuning Transit Station 2,Transit Station,CITY_15_D3,Palembang,-2.977882,104.750628,14648
+POI_00925,Kemuning Residential Cluster 1,Residential Cluster,CITY_15_D3,Palembang,-2.966465,104.767694,4401
+POI_00926,Kemuning Residential Cluster 2,Residential Cluster,CITY_15_D3,Palembang,-2.972008,104.758257,3070
+POI_00927,Kemuning Residential Cluster 3,Residential Cluster,CITY_15_D3,Palembang,-2.962584,104.7599,4495
+POI_00928,Kemuning Hospital 1,Hospital,CITY_15_D3,Palembang,-2.968223,104.759783,3646
+POI_00929,Batam Kota Office Tower 1,Office Tower,CITY_16_D1,Batam,1.031915,104.021594,3272
+POI_00930,Batam Kota Office Tower 2,Office Tower,CITY_16_D1,Batam,1.046001,104.042784,4913
+POI_00931,Batam Kota Office Tower 3,Office Tower,CITY_16_D1,Batam,1.050951,104.047837,6699
+POI_00932,Batam Kota Office Tower 4,Office Tower,CITY_16_D1,Batam,1.045384,104.039701,7265
+POI_00933,Batam Kota Office Tower 5,Office Tower,CITY_16_D1,Batam,1.041088,104.038893,8869
+POI_00934,Batam Kota University 1,University,CITY_16_D1,Batam,1.041299,104.048946,10959
+POI_00935,Batam Kota University 2,University,CITY_16_D1,Batam,1.047006,104.040241,2961
+POI_00936,Batam Kota Mall 1,Mall,CITY_16_D1,Batam,1.045683,104.031861,33272
+POI_00937,Batam Kota Mall 2,Mall,CITY_16_D1,Batam,1.045512,104.040927,58710
+POI_00938,Batam Kota Mall 3,Mall,CITY_16_D1,Batam,1.044213,104.039808,30387
+POI_00939,Batam Kota Transit Station 1,Transit Station,CITY_16_D1,Batam,1.044438,104.040196,11614
+POI_00940,Batam Kota Transit Station 2,Transit Station,CITY_16_D1,Batam,1.043838,104.045474,49640
+POI_00941,Batam Kota Residential Cluster 1,Residential Cluster,CITY_16_D1,Batam,1.044609,104.048295,3938
+POI_00942,Batam Kota Residential Cluster 2,Residential Cluster,CITY_16_D1,Batam,1.047608,104.036549,4220
+POI_00943,Batam Kota Residential Cluster 3,Residential Cluster,CITY_16_D1,Batam,1.04642,104.033987,3827
+POI_00944,Batam Kota Hospital 1,Hospital,CITY_16_D1,Batam,1.03519,104.056205,4741
+POI_00945,Lubuk Baja Office Tower 1,Office Tower,CITY_16_D2,Batam,1.056474,104.046529,7217
+POI_00946,Lubuk Baja Office Tower 2,Office Tower,CITY_16_D2,Batam,1.060639,104.049632,11539
+POI_00947,Lubuk Baja Office Tower 3,Office Tower,CITY_16_D2,Batam,1.063604,104.036954,6479
+POI_00948,Lubuk Baja Office Tower 4,Office Tower,CITY_16_D2,Batam,1.061687,104.04649,4882
+POI_00949,Lubuk Baja Office Tower 5,Office Tower,CITY_16_D2,Batam,1.076144,104.057063,9207
+POI_00950,Lubuk Baja University 1,University,CITY_16_D2,Batam,1.059911,104.059294,10668
+POI_00951,Lubuk Baja University 2,University,CITY_16_D2,Batam,1.046445,104.047177,7287
+POI_00952,Lubuk Baja Mall 1,Mall,CITY_16_D2,Batam,1.072576,104.040909,41115
+POI_00953,Lubuk Baja Mall 2,Mall,CITY_16_D2,Batam,1.06486,104.048598,69141
+POI_00954,Lubuk Baja Mall 3,Mall,CITY_16_D2,Batam,1.055987,104.04741,28210
+POI_00955,Lubuk Baja Transit Station 1,Transit Station,CITY_16_D2,Batam,1.063094,104.047393,17113
+POI_00956,Lubuk Baja Transit Station 2,Transit Station,CITY_16_D2,Batam,1.05798,104.046316,9721
+POI_00957,Lubuk Baja Residential Cluster 1,Residential Cluster,CITY_16_D2,Batam,1.056176,104.061087,4725
+POI_00958,Lubuk Baja Residential Cluster 2,Residential Cluster,CITY_16_D2,Batam,1.05957,104.050439,4045
+POI_00959,Lubuk Baja Residential Cluster 3,Residential Cluster,CITY_16_D2,Batam,1.055669,104.059758,2874
+POI_00960,Lubuk Baja Hospital 1,Hospital,CITY_16_D2,Batam,1.058063,104.049302,6177
+POI_00961,Sekupang Office Tower 1,Office Tower,CITY_16_D3,Batam,1.065243,104.020337,6384
+POI_00962,Sekupang Office Tower 2,Office Tower,CITY_16_D3,Batam,1.065106,104.019157,10980
+POI_00963,Sekupang Office Tower 3,Office Tower,CITY_16_D3,Batam,1.060318,104.014453,5448
+POI_00964,Sekupang Office Tower 4,Office Tower,CITY_16_D3,Batam,1.06869,104.018908,8055
+POI_00965,Sekupang Office Tower 5,Office Tower,CITY_16_D3,Batam,1.071965,104.015741,11724
+POI_00966,Sekupang University 1,University,CITY_16_D3,Batam,1.072754,104.02206,5645
+POI_00967,Sekupang University 2,University,CITY_16_D3,Batam,1.068335,104.021814,5139
+POI_00968,Sekupang Mall 1,Mall,CITY_16_D3,Batam,1.06739,104.015859,20563
+POI_00969,Sekupang Mall 2,Mall,CITY_16_D3,Batam,1.068233,104.028482,29134
+POI_00970,Sekupang Mall 3,Mall,CITY_16_D3,Batam,1.064517,104.020059,23955
+POI_00971,Sekupang Transit Station 1,Transit Station,CITY_16_D3,Batam,1.067137,104.017817,26215
+POI_00972,Sekupang Transit Station 2,Transit Station,CITY_16_D3,Batam,1.065502,104.026131,31058
+POI_00973,Sekupang Residential Cluster 1,Residential Cluster,CITY_16_D3,Batam,1.055845,104.011169,5476
+POI_00974,Sekupang Residential Cluster 2,Residential Cluster,CITY_16_D3,Batam,1.060254,104.023663,4009
+POI_00975,Sekupang Residential Cluster 3,Residential Cluster,CITY_16_D3,Batam,1.059727,104.011008,6119
+POI_00976,Sekupang Hospital 1,Hospital,CITY_16_D3,Batam,1.073985,104.022799,5387

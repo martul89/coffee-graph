@@ -1,0 +1,17 @@
+city_id,name,center_lat,center_lon,data_origin
+CITY_01,Jakarta Selatan,-6.2615,106.8106,synthetic_coords
+CITY_02,Jakarta Pusat,-6.1805,106.8284,synthetic_coords
+CITY_03,Jakarta Barat,-6.1683,106.7588,synthetic_coords
+CITY_04,Surabaya,-7.2575,112.7521,synthetic_coords
+CITY_05,Bandung,-6.9175,107.6191,synthetic_coords
+CITY_06,Tangerang Selatan,-6.289,106.718,synthetic_coords
+CITY_07,Bekasi,-6.2383,106.9756,synthetic_coords
+CITY_08,Medan,3.5952,98.6722,synthetic_coords
+CITY_09,Depok,-6.4025,106.7942,synthetic_coords
+CITY_10,Semarang,-6.9667,110.4167,synthetic_coords
+CITY_11,Yogyakarta,-7.7956,110.3695,synthetic_coords
+CITY_12,Bali Badung,-8.65,115.177,synthetic_coords
+CITY_13,Malang,-7.9666,112.6326,synthetic_coords
+CITY_14,Makassar,-5.1477,119.4327,synthetic_coords
+CITY_15,Palembang,-2.9761,104.7754,synthetic_coords
+CITY_16,Batam,1.0456,104.0305,synthetic_coords

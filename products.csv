@@ -1,0 +1,11 @@
+product_id,name,category
+PRD_01,Iced Palm Sugar Latte,Signature Milk Coffee
+PRD_02,Americano,Black Coffee
+PRD_03,Latte,Milk Coffee
+PRD_04,Cappuccino,Milk Coffee
+PRD_05,Cold Brew,Black Coffee
+PRD_06,Matcha Latte,Non-Coffee
+PRD_07,Chocolate,Non-Coffee
+PRD_08,Iced Lemon Tea,Tea
+PRD_09,Croissant,Pastry
+PRD_10,Coffee + Pastry Bundle,Bundle
